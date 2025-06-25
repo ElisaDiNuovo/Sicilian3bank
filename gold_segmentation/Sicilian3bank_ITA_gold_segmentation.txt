@@ -1,0 +1,518 @@
+text_id=amarasapi|sent_id=1|«Accidenti a me, a questo Zuccu, e a chi mi ci portò!» ripeteva in continuazione Nardu.
+text_id=amarasapi|sent_id=2|Girò di colpo a sinistra, le ruote stridettero sull'asfalto ghiacciato e la macchina slittò in mezzo alla neve.
+text_id=amarasapi|sent_id=3|Il cuore gli balzò in un modo tale che se lo sentiva nella gola. 
+text_id=amarasapi|sent_id=4|La macchina fu travolta dalla puzza pungente di gomma bruciata, Nardu tossì e aprì il finestrino per far entrare aria.
+text_id=amarasapi|sent_id=5|Nessuno dei due si fidava a parlare, gli unici rumori erano i loro respiri affiatati e il ticchettio del motore che si stava raffreddando.
+text_id=amarasapi|sent_id=6|Appena poté parlare, Nardu si girò verso Giuvannuzza: la sventurata era seduta come pietrificata.
+text_id=amarasapi|sent_id=7|«Zuccarata! Rispondimi, ti prego!» le urlava scuotendola.
+text_id=amarasapi|sent_id=8|«Come stai?»
+text_id=amarasapi|sent_id=9|Dolcemente, Giuvannuzza gli tolse le mani dalle sue spalle e le strinse «Sto bene, non ti devi preoccupare…»
+text_id=amarasapi|sent_id=10|«Ma come dovrei fare, che con quella faccia bianca come la cera ti posso già iniziare a sistemare la bara!»
+text_id=amarasapi|sent_id=11|«Devo essere ancora viva se ti sto parlando, sciocco!»
+text_id=amarasapi|sent_id=12|Lo guardò dritto negli occhi. 
+text_id=amarasapi|sent_id=13|Nardu vide quegli smeraldi puntati come un fucile verso la sua faccia e si fece indietro, non riusciva a capire se lo voleva ammazzare o lo voleva baciare.
+text_id=amarasapi|sent_id=14|Giuvannuzza scoppiò a ridere, Nardu la seguì e si fecero prendere dalla risata.
+text_id=amarasapi|sent_id=15| «Ti ricordi quando avevi ancora quella vespaccia 150 che a ogni buca saltava come un coniglio?»
+text_id=amarasapi|sent_id=16|«E come no! Quando la vendetti ero la persona più contenta del mondo, come puzzava quella cosa.»
+text_id=amarasapi|sent_id=17|«Ma se non te la volevi vendere nemmeno morto!» gli urlò, e si misero a ridere un'altra volta.
+text_id=amarasapi|sent_id=18|Dentro la macchina, spenta e con i finestrini abbassati, si ghiacciava, ma quelle risate bastarono a scaldarla.
+text_id=amarasapi|sent_id=19|«E sempre, quattro settimane ti dovetti stare addosso per fartela togliere, non mi credevi che la macchina fosse migliore. Pensa se ora fossimo stati sopra quella vespa: a quest'ora tutti e due saremmo già morti!» 
+text_id=amarasapi|sent_id=20|«È vero», la risata di Nardu si trasformò, pian piano, in un sorriso amaro: la consapevolezza che avrebbero potuto morire lo travolse sotto peggio di un treno. 
+text_id=amarasapi|sent_id=21|«Ti dovrei ascoltare molto di più…»
+text_id=amarasapi|sent_id=22|«Già fai abbastanza, gioia. Ora non ci pensiamo più al passato, lo Zuccu ci sta aspettando!» e batté le mani come una bambina pronta a ricevere i regali di Natale.
+text_id=amarasapi|sent_id=23|Lo Zuccu, quasi se l'era dimenticato.
+text_id=amarasapi|sent_id=24|Perché una che sembra un cadavere, la prima cosa che pensa è andarsene alle feste di paese, logico.
+text_id=amarasapi|sent_id=25|«Ma ci vuoi andare conciata così allo Zuccu? A me sembra che ti gioverebbe un tantino di riposo.»
+text_id=amarasapi|sent_id=26|«Miglior riposo che andare allo Zuccu non c'è!»
+text_id=amarasapi|sent_id=27|«Questo film l'ho già visto…»
+text_id=amarasapi|sent_id=28|«Sto bene, dai.» 
+text_id=amarasapi|sent_id=29|Giuvannuzza gli fece gli occhi dolci.
+text_id=amarasapi|sent_id=30|Nardu  sbuffò.
+text_id=amarasapi|sent_id=31|«Va bene, se mi dici che è questo ciò che ti giova, allora possiamo andare.»
+text_id=amarasapi|sent_id=32|Giuvannuzza gli saltò addosso e l'abbracciò. 
+text_id=amarasapi|sent_id=33|«Grazie», mormorò.
+text_id=amarasapi|sent_id=34|«Nemmeno lo devi dire.» 
+text_id=amarasapi|sent_id=35|Lui la strinse come se fosse stata l'ultima volta che la vedeva e la sua testa si svuotò di tutti i pensieri e le preoccupazioni.
+text_id=amarasapi|sent_id=36|Nardu aprì lo sportello, scese e si diede un'occhiata intorno.
+text_id=amarasapi|sent_id=37|Una folata di vento gelido  soffiava mescolata e il tempo era nuvoloso, ma non stava cadendo più neve.
+text_id=amarasapi|sent_id=38|Si rannicchiò nel cappotto, si voltò per controllare la macchina e tirò un sospiro di sollievo.
+text_id=amarasapi|sent_id=39|Di fianco alla maniglia dello sportello, c'era solo una graffiatura leggera e sottilissima.
+text_id=amarasapi|sent_id=40|«Per una graffiatura così piccola potrei anche chiudere un occhio, almeno non mi rovino la serata.»
+text_id=amarasapi|sent_id=41|Meno male che questa volta la fortuna era stata dalla sua parte, che Giuvannuzza non si era ferita e la macchina era, o forse meglio dire sembrava, ancora intatta.
+text_id=amarasapi|sent_id=42|Ci sarebbe mancata solo questa.
+text_id=amarasapi|sent_id=43|Quella bella 500 nero carbone se l'era comprata con i risparmi di anni e anni e gli era costata quanto la Germania, poi vai a trovare un'altra macchina!
+text_id=amarasapi|sent_id=44|Nardu aiutò Giuvannuzza a scendere e non fecero nemmeno una ventina di passi che una macchina familiare si parcheggiò davanti a loro, dall'altra parte della strada.
+text_id=amarasapi|sent_id=45|«Cugino Gnazziu!»
+text_id=amarasapi|sent_id=46|«Cugino Nardu», gridò lui dal posto di guida.
+text_id=amarasapi|sent_id=47|«Ora scendo e ti vengo a salutare come il Signore comanda!»
+text_id=amarasapi|sent_id=48|Correndo, Gnazzu chiuse la macchina, attraversò e l'abbracciò forte.
+text_id=amarasapi|sent_id=49|Sembrava che fossero anni che non si vedevano.
+text_id=amarasapi|sent_id=50|Come stiamo, mio fratello? La famiglia?» iniziò lui, ma prima che Nardu gli potesse rispondere, si voltò verso Giuvannuzza e si tolse il cappello per rispetto.
+text_id=amarasapi|sent_id=51|«Non mi sono accorto della Volpe, si benedica anche vossignoria.»
+text_id=amarasapi|sent_id=52|«Vossignoria? Ma se ci conosciamo da una vita!» lo canzonò scherzosamente lei.
+text_id=amarasapi|sent_id=53| «In questo modo mi fai sentire vecchia!» 
+text_id=amarasapi|sent_id=54|«Ti chiedo perdono, Giuvannuzza», le disse ridendo. 
+text_id=amarasapi|sent_id=55|«Allora, come siete messi? Avete avuto problemi col viaggio?  Io me la sono vista con il Signore per arrivare, si scivola che è una meraviglia di questi giorni!»
+text_id=amarasapi|sent_id=56|«A noi lo vieni a dire? Poco fa una macchina ci venne addosso e fai conto che tamponammo.»
+text_id=amarasapi|sent_id=57|Nardu sospirò. 
+text_id=amarasapi|sent_id=58|«Ancora ci dobbiamo riprendere.»
+text_id=amarasapi|sent_id=59| Giuvannuzza si accostò a lui e la strinse forte. 
+text_id=amarasapi|sent_id=60|«Quanto mi dispiace… Questo tempo non ci voleva, poi se ci si mettono anche quelli che non sanno portare la macchina …i risultati si vedono.»
+text_id=amarasapi|sent_id=61|«Le persone muoiono per queste sciocchezze», mormorò Nardu.
+text_id=amarasapi|sent_id=62|Il sorriso leggero che Gnazziu portava sempre scomparì.
+text_id=amarasapi|sent_id=63|«Se c'è qualche cosa che posso fare per aiutarti», gli poggiò la mano sulla spalla di Nardu, «dimmelo.»
+text_id=amarasapi|sent_id=64|«Mi posso fidare, non ti preoccupare, mio compare.»
+text_id=amarasapi|sent_id=65|Nardu non era molto convinto, ma Gnazziu capì.
+text_id=amarasapi|sent_id=66|Non è che non si fidava di Gnazziu, ma i suoi sentimenti non erano cose che gli altri potevano risolvere.
+text_id=amarasapi|sent_id=67|Queste erano cose che lui doveva risolvere.
+text_id=amarasapi|sent_id=68|«Per cambiare discorso, quando è che la nostra bella combriccola si rivede? Hai pensato a qualche canzone fresca come sai fare tu che possiamo provare?»»
+text_id=amarasapi|sent_id=69|«A dirti la verità, non sono riuscito a pensare a nulla», abbassò la testa, con il volto cupo e lo sguardo basso.
+text_id=amarasapi|sent_id=70|«È un mese intero che mi ammazzo per inventarmi qualche cosa, ma non mi esce nulla.»
+text_id=amarasapi|sent_id=71|Si sedette sulla panchina e si portò le mani al viso, il cappello gli copriva gli occhi.
+text_id=amarasapi|sent_id=72|«Niente!»
+text_id=amarasapi|sent_id=73|Anche Giuvannuzza si sedette e lo abbracciò per dargli un po' di conforto.
+text_id=amarasapi|sent_id=74|«Nardu, non devi essere così duro con te stesso.  Sono tempi difficili per tutti noi musicisti, e tu ti sei sempre dedicato a lavorare! Volpe, ti ricordi di quella volta che non voleva venire alla scampagnata per finire di scrivere quella canzone?»
+text_id=amarasapi|sent_id=75|«E certo, era una giornata intera che non si allontanava dal pianoforte!»
+text_id=amarasapi|sent_id=76|Nardu cercò di nascondere la risatina che gli usciva dalla bocca, ma non ci riuscì.
+text_id=amarasapi|sent_id=77|«Quel giorno mi stavate odiando…» 
+text_id=amarasapi|sent_id=78|Gnazziu si abbassò e gli sollevò il cappello. 
+text_id=amarasapi|sent_id=79|«Ma quel giorno tu ci regalasti il nostro successo più grande: Eh Cumpari! I Vampi suonerebbero ancora dentro il garage di Arricu senza di te, senza le tue canzoni. Ficcatelo nella testa», gli disse e gli colpì la fronte.
+text_id=amarasapi|sent_id=80| Nardu sorrise.
+text_id=amarasapi|sent_id=81|Se i Vampi andavano avanti, dovevano dire grazie a Nardu, lo sapeva.
+text_id=amarasapi|sent_id=82|E se lo meritavano tutto quanto quel successo: ciascuno del quartetto aveva seguito il suo ruolo senza che mai nessuno si fosse lamentato.
+text_id=amarasapi|sent_id=83|Questo era strano, ma Nardu ci avrebbe messo la mano sopra al fuoco che, se mai avessero avuto problemi, si sarebbero risolti senza conseguenze per il  gruppo.
+text_id=amarasapi|sent_id=84|Gnazziu sospirò. 
+text_id=amarasapi|sent_id=85|«Allora, ti vuoi saltare lo Zuccu quest'anno o ci diamo una mossa?» e gli porse la mano a Nardu.
+text_id=amarasapi|sent_id=86|Lui la prese e si alzò. 
+text_id=amarasapi|sent_id=87|Gnazziu era un amico vero, l'unico amico di quando era bambino che non l'aveva ancora abbandonato.
+text_id=amarasapi|sent_id=88|Tutti e tre si avviarono verso la piazza, qualche minuto e l'anno di lavoro sarebbe ufficialmente finito.
+text_id=amarasapi|sent_id=89|Dieci anni prima, avevano fatto la stessa strada.
+text_id=amarasapi|sent_id=90|Allora, andavano ancora a scuola: tre ragazzini spensierati che aspettavano quel momento molto più di ogni altra cosa per riposarsi dallo studio.
+text_id=amarasapi|sent_id=91|Ora i fidanzati si tenevano per mano, ma il braccio di Gnazziu intorno al collo di Nardu era testimone di un legame che il tempo non poteva intaccare.
+text_id=amarasapi|sent_id=92|Ora non potevano più mangiare il falsomagro da Nardu, ascoltare le barzellette di suo nonno seduti davanti al focolare.
+text_id=amarasapi|sent_id=93|I suoi nonni non c'erano più, e nemmeno quei tre ragazzini, ma certe cose non sarebbero cambiate mai.
+text_id=amarasapi|sent_id=94|La facciata lavica della Matrice, la chiesa di Santo 'Ntoni, svettava maestosa la piazza del Cirasito, coperta da un doppio manto di neve.
+text_id=amarasapi|sent_id=95|I lampioni erano già accesi perché stava scurendo, ma ancora il cielo era più rosa che blu.
+text_id=amarasapi|sent_id=96|Quel poco di cielo che non era occupato dalle nuvole, si intende.
+text_id=amarasapi|sent_id=97|Lo squittio delle ultime gazze che rincasavano si mescolava al parlottio della gente.
+text_id=amarasapi|sent_id=98|Le campane suonavano, risuonando per il centro del paese.
+text_id=amarasapi|sent_id=99|A Nardu si rizzarono i peli.
+text_id=amarasapi|sent_id=100|Era sempre stato il momento più atteso del mese per lui: il senso di familiarità, di unione, e sapere che le vacanze erano dietro l'angolo non avevano prezzo, dopo mesi di lavoro.
+text_id=amarasapi|sent_id=101|Eppure, questa volta i rintocchi somigliavano molto più ai richiami di un funerale che a quelli di una festa di paese.
+text_id=amarasapi|sent_id=102|«Guarda!» Gnazziu indicò un uomo con un secchio pieno di qualche sostanza liquida, che si muoveva deciso davanti alla legna.
+text_id=amarasapi|sent_id=103|Nardu alzò lo sguardo, perché, per questioni di sicurezza, doveva mantenere una buona distanza dal fuoco.
+text_id=amarasapi|sent_id=104| L'uomo salì sopra al mucchio di legna che stava al centro della piazza e, con un movimento circolare, ci versò la sostanza di sopra.
+text_id=amarasapi|sent_id=105|Svuotato il secchio, scese e gli fece segno a Padre 'Ntuninu.
+text_id=amarasapi|sent_id=106|Lui, se ne accorse, iniziò a girare attorno allo Zuccu mentre gettava acqua benedetta da ogni lato.
+text_id=amarasapi|sent_id=107|«Eccoci!», fece Giuvannuzza scuotendolo per il cappotto.
+text_id=amarasapi|sent_id=108|Erano ancora solo le prime scintille, ma per le persone questo era l'inizio dello Zuccu.
+text_id=amarasapi|sent_id=109|Il battimano della folla fece tremare la piazza peggio di un terremoto.
+text_id=amarasapi|sent_id=110|Questo, comunque, era l'inizio del caos: il momento degli auguri.
+text_id=amarasapi|sent_id=111|Le persone se ne andavano da una parte all'altra della piazza come tante formiche per farsi gli auguri e per festeggiare.
+text_id=amarasapi|sent_id=112|C'era chi aveva le mani vuote, chi si era portato dietro pacchi e pacchetti per togliersi il pensiero del regalo e chi stava già alzando la bottiglia di champagne all'aria per stappare.
+text_id=amarasapi|sent_id=113|Festeggiamenti. 
+text_id=amarasapi|sent_id=114|Quanto annoiavano Nardu. Fare questo schifo nelle loro case non gli piaceva proprio?
+text_id=amarasapi|sent_id=115|Con tutto che Gnazziu era un santo, purtroppo, aveva la stessa malattia di quelli che riempivano il paese di frastuono senza scusante.
+text_id=amarasapi|sent_id=116|«Torno subito!» gridò a Nardu e Giuvannuzza, e, in un batter d'occhio, già l'avevano perso di vista.
+text_id=amarasapi|sent_id=117|Tutti gli passavano davanti, fuggivano, gridavano, ma Nardu non si muoveva.
+text_id=amarasapi|sent_id=118|A dire il vero, erano pochi in quella piazza: lui, Giuvannuzza, la colonna di fuoco selvaggio che si alzava e i suoi pensieri.
+text_id=amarasapi|sent_id=119|Sì, sempre quelli che erano scomparsi nella macchina.
+text_id=amarasapi|sent_id=120|Loro se mai l'avessero abbandonato, infatti sarebbero venuti a cercarlo anche dall'altra parte del mondo.
+text_id=amarasapi|sent_id=121|Il tanfo di fumo gli trapanò le narici, il calore gli accarezzava il volto.
+text_id=amarasapi|sent_id=122|Nardu pensava che il tocco leggero e dolce delle fiamme, lo scricchiolio della legna o l'aria di festa l'avrebbero confortato.
+text_id=amarasapi|sent_id=123|Be', non stava funzionando. 
+text_id=amarasapi|sent_id=124|Le campane non suonavano più e, tanto per cambiare, ora lo Zuccu aveva un altro significato.
+text_id=amarasapi|sent_id=125|Non era la legna a bruciare, erano gli sforzi di un anno intero che andavano in fumo.
+text_id=amarasapi|sent_id=126|Come se tutto quel lavoro duro, quel tempo speso per scrivere canzoni, fosse stato inutile.
+text_id=amarasapi|sent_id=127|«Quanto tempo ancora devo fare finta?», mormorò Giuvannuzza.
+text_id=amarasapi|sent_id=128|Nardu sospirò e scattò, liberando tutta la frustrazione che aveva trattenuto nel fondo del suo cuore.
+text_id=amarasapi|sent_id=129|«Non riesco a togliermi il lavoro dalla testa. Sprecai un anno intero a scrivere canzoni, canzoni che rimangono nel mio cassetto a fare polvere, perché questo Natale nessuno ci chiamò e fai conto che l'anno è finito. Anzi, non mi sto nemmeno fidando a scrivere una sola canzone per l'anno che verrà!»
+text_id=amarasapi|sent_id=130|Patetico, ma si sentiva già più libero.
+text_id=amarasapi|sent_id=131|Si asciugò le lacrime con la mano. 
+text_id=amarasapi|sent_id=132|«Giuvannuzza, io ho paura che finiremo a raccogliere cardi per le campagne…», disse singhiozzando.
+text_id=amarasapi|sent_id=133|«Tu non meriti questo, meriti di meglio..» e cadde a terra in ginocchio.
+text_id=amarasapi|sent_id=134|Giuvannuzza incrociò le braccia. 
+text_id=amarasapi|sent_id=135|La sua occhiata, rigorosa ma compassionevole, gli si infilò nel petto come un coltello.
+text_id=amarasapi|sent_id=136|«Nardu Scagghia, ascoltami ora perché non te lo ripeto più. Mi hai capito?»
+text_id=amarasapi|sent_id=137|Nessuna parola uscì dalla bocca di Nardu.
+text_id=amarasapi|sent_id=138|«Tu sei bravo.»
+text_id=amarasapi|sent_id=139|Nardu sollevò la testa.
+text_id=amarasapi|sent_id=140|«Tu sei bravo, Nardu mio. Però, devi capire che non te la cavi da solo. Secondo te una macchina può camminare senza ruote? Gli uccelli se la cavano a volare con un'ala sola?»
+text_id=amarasapi|sent_id=141|«No…», mormorò lui tra un singhiozzo e un altro.
+text_id=amarasapi|sent_id=142|«E allora come pensi che te la cavi a fare tutto da solo, tu?»
+text_id=amarasapi|sent_id=143|Nardu tirò fuori un fazzoletto dalla tasca e si mise ad asciugare via le lacrime, gli occhi gli bruciavano da morire e si vedevano ancora bene i segni del pianto.
+text_id=amarasapi|sent_id=144|Poi si alzò e si mise il cappotto e il cappello.
+text_id=amarasapi|sent_id=145|«Hai ragione, sono buono a niente.»
+text_id=amarasapi|sent_id=146|Giuvannuzza gli pizzicò violentemente la guancia.
+text_id=amarasapi|sent_id=147|«Ahi! Ma che ti prese?»
+text_id=amarasapi|sent_id=148|Lasciò la presa.
+text_id=amarasapi|sent_id=149|«Io stavo parlando con il muro?» chiese furiosa.
+text_id=amarasapi|sent_id=150|«Non è che sei buono a niente; tu sei babbo, che è un'altra cosa.»
+text_id=amarasapi|sent_id=151|Non era una novità, in effetti.
+text_id=amarasapi|sent_id=152|«Zuccarata, che dovrei fare allora? Sono consumato!»
+text_id=amarasapi|sent_id=153|«Tu non hai colpe in questa storia, sono sicura che prima che te ne accorga ti verrà un'idea per la canzone nuova.»
+text_id=amarasapi|sent_id=154|Si avvicinò a lui e gli mise le braccia al collo.
+text_id=amarasapi|sent_id=155|La sua voce si affievolì. 
+text_id=amarasapi|sent_id=156|«Solo, mi devi promettere che non mi nasconderai niente. Siamo una coppia, Nardu. Come ti posso aiutare, se nemmeno so di cosa hai bisogno?»
+text_id=amarasapi|sent_id=157|«Mi devi scusare.» 
+text_id=amarasapi|sent_id=158|La tenne stretta al suo petto, come se la volesse proteggere da qualche cosa.
+text_id=amarasapi|sent_id=159|Ma era da lui che avrebbe dovuto proteggerla, Giuvannuzza stava in quel modo per colpa sua.
+text_id=amarasapi|sent_id=160|Spesso, a forza di pensare troppo agli altri, finiamo per ferirli e non riusciamo nemmeno a fare le cose bene come avremmo voluto.
+text_id=amarasapi|sent_id=161|Un pochino di egoismo giova, alle volte. 
+text_id=amarasapi|sent_id=162|Capirlo Nardu  l'aveva capito, ma riuscire a farlo era tutto un altro discorso.
+text_id=amarasapi|sent_id=163|L'urlo stridulo di una signora squarciò l'aria. 
+text_id=amarasapi|sent_id=164|Giuvannuzza si staccò immediatamente da Nardu. 
+text_id=amarasapi|sent_id=165|«Andiamo a controllare!» lo prese per mano iniziò a correre nella direzione della voce.
+text_id=amarasapi|sent_id=166|Una vecchiarella stava malridotta per terra vicino a un carretto che vendeva budella, aveva una mano sulla faccia e gli occhi lacrimosi.
+text_id=amarasapi|sent_id=167|Una folla di persone si era accalcata attorno a lei, ma nessuno sapeva cosa fare.
+text_id=amarasapi|sent_id=168|Nardu e Giuvannuzza si fecero spazio tra la folla a forza di gomitate.
+text_id=amarasapi|sent_id=169|«Nardu, quanto sei diventato grande!» cercò di alzarsi per abbracciarlo, ma non ci riuscì e dovette tornare a stendersi.
+text_id=amarasapi|sent_id=170|«Che successe, Signora Francisca?» 
+text_id=amarasapi|sent_id=171|«Poc'anzi scivolai e cadendo mi slogai il ginocchio», gli disse ansimando.
+text_id=amarasapi|sent_id=172|Mentre Nardu stava seduto tenendo la mano alla signora, Giuvannuzza le spostò il cappotto di pelliccia e sollevò attentamente l'orlo dell'abito.
+text_id=amarasapi|sent_id=173|Il ginocchio era rosso e piuttosto gonfio.
+text_id=amarasapi|sent_id=174|«Quanto le fa male, proprio là?» le chiese Giuvannuzza, e lentamente le passò la mano sul gonfiore.
+text_id=amarasapi|sent_id=175|La Signora Francisca emise un gemito tanto represso quanto doloroso.
+text_id=amarasapi|sent_id=176|«Vossignoria si prese una bella botta, ma non mi si preoccupi che qua ci pensiamo io e il mio fidanzato.»
+text_id=amarasapi|sent_id=177|La vecchia signora le accarezzò la faccia. 
+text_id=amarasapi|sent_id=178|«Sei un angelo di ragazza, fattelo dire.» 
+text_id=amarasapi|sent_id=179|Un uomo vestito da cameriere, con una camicia bianca e un gilet nero, si avvicinò a loro con un po' di ghiaccio e un panno in mano.
+text_id=amarasapi|sent_id=180|Il sudore gli scendeva sulla fronte e gli mancava il fiato. 
+text_id=amarasapi|sent_id=181|«Lo usiamo per fare le granite», si piegò sulle ginocchia per riprendere aria.
+text_id=amarasapi|sent_id=182|«Ma forse non è il periodo migliore!» 
+text_id=amarasapi|sent_id=183|Alla Signora Francisca le scappò una risata di buon cuore.
+text_id=amarasapi|sent_id=184|«Se in questo momento mi fa una granita, non mi lamento anche se ci sono pinguini in giro!»
+text_id=amarasapi|sent_id=185|L'atmosfera si era alleggerita.
+text_id=amarasapi|sent_id=186|Un sorriso caldo si stampò sulla faccia di Giuvannuzza.
+text_id=amarasapi|sent_id=187|«Grazie, dovrebbe bastare questo!»
+text_id=amarasapi|sent_id=188|Nardu si fece dare tutto dal cameriere, si abbassò accanto a Giovannuzza e mise il ghiaccio avvolto nel panno sopra il ginocchio della Signora Francisca. 
+text_id=amarasapi|sent_id=189|«Già sento che sto rinfrescando.» 
+text_id=amarasapi|sent_id=190|Strinse le mani a entrambi con un'energia e una forza straordinaria per essere una vecchiarella dolorante.
+text_id=amarasapi|sent_id=191|«Non so come avrei fatto senza di voi, grazie infinite, grazie!»
+text_id=amarasapi|sent_id=192|«Non facemmo niente, neanche il ghiaccio lo portammo noi!»
+text_id=amarasapi|sent_id=193|La Signora Francisca cambiò espressione in volto.
+text_id=amarasapi|sent_id=194|«Beh, Nardu, che vergogna! Ancora non ti ho chiesto il nome di questa bella ragazza che ti prendesti per fidanzata.»
+text_id=amarasapi|sent_id=195|«Giuvanna Sabbeddu, sono la figlia di Arfiu e Catarina.»
+text_id=amarasapi|sent_id=196|«Arfiu e Catarina… È che di Sabbeddu ce ne sono senza fine qua a Cirasito, qual è il tuo soprannome?»
+text_id=amarasapi|sent_id=197|«Signora Francisca, la sua famiglia non ha soprannomi. Di sicuro la mia fidanzata l'ha sentita nominare, però. Dai, la Volpe non le dice niente?»
+text_id=amarasapi|sent_id=198| «E certo, sei la nipote di Ajitinu il Tignoso! Ma perché ti chiamano in questo modo?»
+text_id=amarasapi|sent_id=199|«Gli altri dicono perché aiuto tutti come la Volpe Giuvannuzza di un racconto per bambini, ma mi sembra troppo difficile come spiegazione. Secondo me, visto che ho i capelli rossi, è solo una scusa per chiamarmi volpe».
+text_id=amarasapi|sent_id=200| «Ma tu le persone non le aiuti, si è visto!» e si mise a ridacchiare.
+text_id=amarasapi|sent_id=201|«Qua ci penso io», disse il signore incamiciato di prima.
+text_id=amarasapi|sent_id=202|Giuvannuzza si alzò, ma il ginocchio l'abbandonò. 
+text_id=amarasapi|sent_id=203|Nardu la prese giusto in tempo. 
+text_id=amarasapi|sent_id=204|«Te l'avevo detto io…» Non l'aveva mai vista così pallida in faccia.
+text_id=amarasapi|sent_id=205|«Vossignoria torna a casa, perché sembra una morta che cammina, con tutto il rispetto.»
+text_id=amarasapi|sent_id=206|«Forse sarebbe la migliore cosa, vi ringrazio…»
+text_id=amarasapi|sent_id=207|«Di nulla, avete già fatto troppo. Io sono un amico di Don Peppi, stiamo provando a contattarlo.»     
+text_id=amarasapi|sent_id=208|Si sedette di fianco alla Signora Francisca e le tenne la mano.
+text_id=amarasapi|sent_id=209|«Adesso posso stare io vicino a sua moglie, voi potete rientrare.»
+text_id=amarasapi|sent_id=210|Nardu si caricò Giuvannuzza sulle spalle e si avviarono verso la macchina.
+text_id=amarasapi|sent_id=211|Quanto gli erano mancati la quiete e la familiarità di quelle strisce sopra alle mura verde sbiadito.
+text_id=amarasapi|sent_id=212|Nardu si godeva il calore del caminetto affondando nella poltrona rossa, nuova di zecca ed elegante, che teneva nel salotto.
+text_id=amarasapi|sent_id=213|Giuvannuzza riposava sul divano, i ricci rossi le coprivano gli occhi.
+text_id=amarasapi|sent_id=214|Purtroppo, però, non le coprivano la bocca, tanto che, con tutto quel russare furioso, Nardu si era convinto che era alla stazione ad aspettare il treno.
+text_id=amarasapi|sent_id=215|Il russare, pian piano, se ne stava andando, perché la bella addormentata si stava rigirando a destra e a sinistra. 
+text_id=amarasapi|sent_id=216|Si voltò verso di lui, sdraiata sul fianco, e si stirò le braccia.
+text_id=amarasapi|sent_id=217|Nardu le spostò delicatamente i capelli dalla faccia.
+text_id=amarasapi|sent_id=218|«Gioia, ci pensi a quanti anni fa venimmo a stare qua?» le chiese con la voce assonnata.
+text_id=amarasapi|sent_id=219|«Quando?» Si accarezzò il mento e cercò qualche informazione dentro la sua testa vuota.
+text_id=amarasapi|sent_id=220|«Mmh, un paio d'anni?» 
+text_id=amarasapi|sent_id=221|Giuvannuzza aprì gli occhi e si mise a giocherellare con i suoi ricci.
+text_id=amarasapi|sent_id=222|«Tre anni, mi pare.»
+text_id=amarasapi|sent_id=223|Nardu abbassò la testa. 
+text_id=amarasapi|sent_id=224|«Sì, sì, così deve essere. Era il '62, ci pensavo solo ora.»
+text_id=amarasapi|sent_id=225|«Ma allora è quando arrivai io, tu avevi già traslocato a diciott'anni.»
+text_id=amarasapi|sent_id=226|Sospirò.
+text_id=amarasapi|sent_id=227|«Traslocato. Tornavo qua solo per dormire, non potevo vedere questa casa.»
+text_id=amarasapi|sent_id=228|«Eppure è da quando venni che tu sei stato tranquillo qua, perché?»
+text_id=amarasapi|sent_id=229|Già la sua presenza bastava a farlo stare calmo, ma, in questo caso, non era lei l'unica ragione, per quanto l'amava.
+text_id=amarasapi|sent_id=230|Giuvannuzza iniziò a pensare.
+text_id=amarasapi|sent_id=231|«Il colore delle mura…»
+text_id=amarasapi|sent_id=232|Risposta corretta. 
+text_id=amarasapi|sent_id=233|«Prima queste mura erano bianche, quando eri solo. O sto dicendo sciocchezze?»
+text_id=amarasapi|sent_id=234|«Dici bene, per questo, nel periodo in cui arrivasti tu, decisi tutto.»
+text_id=amarasapi|sent_id=235|Gli occhi di Giuvannuzza si fecero lucidi.
+text_id=amarasapi|sent_id=236|«Perché tutto ti ricordava loro…»
+text_id=amarasapi|sent_id=237|Dopo che anche sua madre l'aveva lasciato, a cinque anni se n'era andato a vivere coi suoi nonni materni, nel quartiere della Vidda.
+text_id=amarasapi|sent_id=238|A diciott'anni, era tornato nella vecchia casa. 
+text_id=amarasapi|sent_id=239|Un luogo di brutti sogni e ricordi da dimenticare, prima che arrivasse lei. 
+text_id=amarasapi|sent_id=240|Giuvannuzza gli strinse forte la mano sul bracciolo del divano, ma dopo qualche secondo e la Volpe tornò al miglior sonno.
+text_id=amarasapi|sent_id=241|Non era colpa sua, era veramente troppo stanca e sfinita, dall'altro canto era una serata intera che Nardu le raccomandava di riposarsi.
+text_id=amarasapi|sent_id=242|Come poteva essere che quella ragazza affettuosa, intelligente e di buona famiglia stava dormendo nel suo salotto solo il Signore lo poteva sapere.
+text_id=amarasapi|sent_id=243|Che spreco! E comunque, tutte le volte che lo vedeva le si illuminavano gli occhi così tanto che sembrava una gazza davanti a una collana di diamanti.
+text_id=amarasapi|sent_id=244|Se la doveva tenere stretta, si ripeteva Nardu dentro di sé.
+text_id=amarasapi|sent_id=245|Si alzò dalla poltrona e, senza far rumore, le diede un bacio sulla fronte.
+text_id=amarasapi|sent_id=246|«Lo feci per te.»
+text_id=colapisci|sent_id=1|Cola Pisci era un abitante di Torre Faro che sapeva nuotare meglio di un pesce; basta dire che andava da Messina a Catania e da Catania a Messina, sempre sott'acqua. 
+text_id=colapisci|sent_id=2|Una volta venne il Re qui a Messina, e sentì dire che avevano a Messina quest'uomo meraviglioso, che era il primo nuotatore.
+text_id=colapisci|sent_id=3|Sentendo così, lo volle vedere.
+text_id=colapisci|sent_id=4|Cola fu chiamato e si presentò al Re.
+text_id=colapisci|sent_id=5|—"Dimmi: è vero (gli dice il Re) che tu sai nuotare bene?" 
+text_id=colapisci|sent_id=6|—"Maestà, sì!".
+text_id=colapisci|sent_id=7|Allora il Re gli gettò una spada in mare, e Cola si tuffò e l’andò a prendere.
+text_id=colapisci|sent_id=8|Vedendo questo, la Regina gli gettò un anello, non credendo che Cola Pisci lo potesse prendere; e Cola Pisci lo prese.
+text_id=colapisci|sent_id=9|—"Allora mi devi saper dire cosa c'è sotto il piede del Sarvaturi", gli dice il Re.
+text_id=colapisci|sent_id=10|Cola si getta in mare, osserva e torna:—"Sapete cosa c'è, Maestà? C'è una caverna, che porta un gran fuoco".
+text_id=colapisci|sent_id=11|Il Re non rimase soddisfatto di questa cosa: disse: — "Niente: non mi hai saputo dire niente. 
+text_id=colapisci|sent_id=12|Ora se c'è questa caverna e tu mi sai portare la cenere di questo fuoco, io ti farò i miei complimenti".
+text_id=colapisci|sent_id=13|Cola scese di nuovo, arrivò laggiù, si bruciò la mano e risalì.—"Ecco, Maestà!" e gli presentò la mano bruciata.
+text_id=colapisci|sent_id=14|Risposta del Re: — "Non sono ancora contento.
+text_id=colapisci|sent_id=15|Tu devi entrare dentro la caverna; e mi devi dire dove si trova questo fuoco".
+text_id=colapisci|sent_id=16|—"Reale Maestà (gli disse Cola), se io scendo, non risalgo più sopra; ne sono sicuro" (a Cola Pisci gli parlava il cuore).
+text_id=colapisci|sent_id=17|Il Re, per metterlo alla prova, gli disse che un uomo valoroso non ha mai paura di nessuno.
+text_id=colapisci|sent_id=18|—"Volete così? io lo faccio; ma io ci perdo la vita".
+text_id=colapisci|sent_id=19|Prese una sbarra: —"Se questa sbarra (dice) risale bruciata, vuol dire che sono morto; se non è bruciata, sono vivo".
+text_id=colapisci|sent_id=20|Scese ed entrò, con questa sbarra in mano, dentro questa caverna.
+text_id=colapisci|sent_id=21|La sbarra si bruciò e venne in superficie.
+text_id=colapisci|sent_id=22|Cola Pisci rimase bruciato! e non risalì più.
+text_id=colapisci|sent_id=23|Il Re fece questo per vedere se era vero che la caverna si trovava nel sottosuolo, ed era uno dei sostegni della Sicilia (Messina).
+
+text_id=colapisci|sent_id=24|Cola Pisci era un uomo che nuotava come un pesce.
+text_id=colapisci|sent_id=25|Una volta un Governatore di Messina gli promise un grosso premio se lui gli andava a prendere una coppa d'oro in fondo al mare.
+text_id=colapisci|sent_id=26|Cola Pisci gliela andò a pescare ad una profondità di ottanta canne; e il Governatore gli diede il premio.
+text_id=colapisci|sent_id=27|Gliene promise un altro, e Cola si tuffò e gli portò la coppa.
+text_id=colapisci|sent_id=28|La terza volta, Cola non ci voleva scendere; ma il Governatore gli disse: -"Io ti do mia figlia per moglie se tu ci scendi la terza volta; e mi porti la coppa d'oro".
+text_id=colapisci|sent_id=29|Cola si persuase e si tuffò una terza volta, e ne uscì vincitore.
+text_id=colapisci|sent_id=30|Ma quando chiese la figlia del Governatore, lo scellerato, lo fece uccidere. (Ganzirri)
+
+text_id=colapisci|sent_id=31|Cola Pisci era un forte nuotatore del Faro, mezzo pesce e mezzo uomo; dalla pancia in su era uomo come noi e stava fuori dall'acqua; dalla pancia in giù era pesce e non usciva mai dall'acqua.
+text_id=colapisci|sent_id=32|Quasi sempre però camminava sott'acqua e toccava sempre il fondale.
+text_id=colapisci|sent_id=33|Quando veniva a riva, alla gente che gli chiedeva: — "Perché non esci? Perché non puoi venire qui" — gli rispondeva: - "Non vedete come sono? poi, ci sono tanti pescicani e tanti animalacci feroci che di me si spaventano e così non vi fanno danno ai ricci.
+text_id=colapisci|sent_id=34|Però il più grosso pesce è sempre il grongo; lui ha la coda a ponente e la testa a levante".
+text_id=colapisci|sent_id=35|Una volta invitato dal Re, andò in fondo e non tornò più, forse si trova ancora in viaggio. (Roccalumera)
+
+text_id=colapisci|sent_id=36|A Messina c'era un uomo che veniva chiamato Pisci Cola.
+text_id=colapisci|sent_id=37|Questo aveva le dita unite: quelle del piede come quelle degli uccelli d'acqua; e le branchie come i pesci; e ogni giorno si gettava nel Porto di Messina, per divertirsi.
+text_id=colapisci|sent_id=38|Venne a Messina la Regina, e le raccontarono che c'era quest'uomo portentoso, che stava in mare come un pesce.
+text_id=colapisci|sent_id=39|La Regina non ci volle credere all'inizio, tanto che lo mise alla prova, e con una lancia reale se lo portò al Garofalo, al Faro, e gli disse: — "Qui c'è questa coppa d'oro; io te la getto in mare; se tu dopo un'ora la riesci a trovare, è tua".
+text_id=colapisci|sent_id=40|Quello aspettò un'ora, e si gettò in fondo; dopo due ore emerse con la coppa d'oro in mano.
+text_id=colapisci|sent_id=41|La Regina gli chiese cosa aveva visto nel fondo del mare, e Cola le disse che c'erano due grandissime caverne, che risucchiavano l'acqua del mare, ed erano in comunicazione con l’Etna.
+text_id=colapisci|sent_id=42|Dopo giorni, prima di partire, la Regina lo chiamò di nuovo, e gli disse: — "Io ti getto un'altra coppa d'oro più grande della prima, a patto che tu vada a vedere fino a dove arrivano queste caverne".
+text_id=colapisci|sent_id=43|Risponde Cola: — "Maestà, sì".
+text_id=colapisci|sent_id=44|L’indomani mattina la Regina andò sul luogo; gettò in mare la coppa: dopo due ore si gettò Cola Pisci, e da allora si aspetta che torni in superficie. (S. Agata di Militello)
+text_id=colapisci|sent_id=45|Questo Cola Pisci era uno mezzo uomo e mezzo pesce.
+text_id=colapisci|sent_id=46|Altri dicono che era un gran sommozzatore, che per tutto il mondo non c'era l'uguale.
+text_id=colapisci|sent_id=47|Egli abitava a Messina, e faceva il corriere da Messina a Reggio: e nel tuffarsi vedeva tutto quello che c'era nel Faro.
+text_id=colapisci|sent_id=48|Non so chi lo disse, ma pare che di lui se ne servivano per vedere la corrente della punta di Torre Faro.
+text_id=colapisci|sent_id=49|In questo punto la corrente per sei ore sale e sei ore scende e alcune volte fa il gorgo, ed è lì che le navi si perdono.
+text_id=colapisci|sent_id=50|Cola Pisci si tuffava, e vedeva il tutto, ma non si era potuto persuadere di come il mare facesse questo gioco in questo punto.
+text_id=colapisci|sent_id=51|Ecco che gli venne in testa di scendere in questo punto e di vedere da dove veniva questa cosa.
+text_id=colapisci|sent_id=52|Scese, e risalì spaventato dai grandi mastini che vide; difatti in questo punto ci sono innumerevoli pescicani, e guai a chi ci capita!
+text_id=colapisci|sent_id=53|Non contento di questo, volle andare a vedere di nuovo ciò che c'era e dove avesse origine il vortice.
+text_id=colapisci|sent_id=54|E scese con una sbarra; ma dopo un po', la sbarra emerse da sola, bruciacchiata, e si suppone che si sia bruciato in una bocca di fuoco come quella dell’Etna che c’è laggiù. 
+text_id=colapisci|sent_id=55|Ho sentito dire pure che il braccio della Cittadella è sostenuto da tre colonne, e una è caduta, una sta per cadere e una è stabile: e questa cosa si sa perché la disse Cola Pisci. (Messina e Palermo)
+text_id=colapisci|sent_id=56|Questo Piscicola era uno del Faro, che da piccolo non faceva altro che stare in mare nuotando dalla mattina fino alla sera, perché il suo genio lo portava lì.
+text_id=colapisci|sent_id=57|Sua madre stava sempre a riprenderlo, a minacciarlo, ad attaccarlo, anche a prenderlo con le buone maniere; ma era tutto inutile.
+text_id=colapisci|sent_id=58|Un giorno, non potendone più, si volta, povera donna! profondamente arrabbiata e gli dice:— "Che potessi diventare pesce e non uscire più dall'acqua!" 
+text_id=colapisci|sent_id=59|E appena disse così, il bambino divenne con la pelle come quella dello squalo, e in mezzo alle dita gli crebbe la pellicola tale e quale ai piedi delle anatre.
+text_id=colapisci|sent_id=60|Da allora in poi, terra questo bambino non ne vide più, perché la sua terra era il mare, e nuotava e si immergeva meglio di un pesce: e per questo lo chiamarono Piscicola, perché di battesimo si chiamava Cola. (Termini)
+
+text_id=colapisci|sent_id=61|Una volta si racconta che un marinaio entrò in confidenza con la Sirena del mare, e scommise, non so cosa, che lei non sarebbe stata capace di andare fino in fondo a prendere un anello.
+text_id=colapisci|sent_id=62|Il marinaio lo sapeva che la Sirena sott'acqua non ci può stare a lungo, perché le manca il respiro: e questa cosa gliel'aveva confidata lei stessa, una volta.
+text_id=colapisci|sent_id=63|Fatta questa scommessa, la Sirena disse al marinaio: — "Io ora mi tuffo; ma se entro mezz'ora non ricompaio, e al posto mio tu vedi venire a galla qualche goccia di sangue, ritieni che sono morta: e te ne vai".
+text_id=colapisci|sent_id=64|Ecco che il marinaio le gettò l'anello che aveva al dito, e la Sirena si tuffò; ma non si vide più.
+text_id=colapisci|sent_id=65|Dopo mezz'ora si vide l'acqua diventare rossa: e il marinaio capì. (Palermo)
+
+text_id=colapisci|sent_id=66|Una volta c'era a Messina una madre, che aveva un figlio; questo figlio si chiamava Cola, e stava sempre in mare.
+text_id=colapisci|sent_id=67|La madre non faceva altro che chiamarlo, e lui la faceva disperare; un giorno la fece gridare tanto, che lei non potendone più, gli gettò una maledizione: "Che tu possa diventare pesce!" 
+text_id=colapisci|sent_id=68|Gli dei stavano ascoltando e la maledizione gli giunse; ed ecco in un momento divenne mezzo pesce e mezzo uomo, con le dita unite e le branchie come una rana.
+text_id=colapisci|sent_id=69|Cola in terra non ci scese più, e la madre, per la pena, si picchiò tanto, che ne morì.
+text_id=colapisci|sent_id=70|Il Re sentì che nel suo mare c'era uno mezzo pesce e mezzo uomo, e ordinò a tutti i marinai che chi vedeva il Piscicola, doveva dirgli che il Re gli voleva parlare.
+text_id=colapisci|sent_id=71|Un giorno un marinaio lo vide e gli disse: — "Cola, ti vuole parlare il Re di Messina".
+text_id=colapisci|sent_id=72|Lui subito ci andò.
+text_id=colapisci|sent_id=73|Il Re, quando lo vide, gli sorrise amichevolmente e poi gli ordinò di girare intorno alla Sicilia, e gli sapesse dire dove il mare era più profondo, e quello che vedeva.
+text_id=colapisci|sent_id=74|Cola obbedì, e si mise a nuotare intorno alla Sicilia.
+text_id=colapisci|sent_id=75|Dopo un po' di tempo, il Piscicola tornò e raccontò che aveva visto montagne, valli, fenditure e tante cose curiose, come pure che nel passare il Faro si era spaventato perché pareva senza fondo.
+text_id=colapisci|sent_id=76|Il Re allora gli disse: — "Voglio sapere dove sono le fondamenta di Messina".
+text_id=colapisci|sent_id=77|Cola si immerse, e, dopo un giorno, tornò e disse al Re, che Messina aveva le sue fondamenta sopra uno scoglio, sostenuta da tre colonne: una rotta, una scheggiata ed una intera, e Cola disse: "Messina, Messina, Un giorno sarai meschina!" 
+text_id=colapisci|sent_id=78|Il Re rimase stupefatto, e portò il Piscicola a Napoli per vedere i fondali dove c'erano i vulcani.
+text_id=colapisci|sent_id=79|Il Piscicola scese laggiù, e raccontò che aveva trovato le acque ora fredde, ora calde, e che a un certo punto aveva visto sorgenti d'acqua dolce.
+text_id=colapisci|sent_id=80|Il Re non ci voleva credere, e lui per fargli vedere la verità, si fece dare una bombola, l’andò a immergere laggiù e la portò su.
+text_id=colapisci|sent_id=81|Ma al Re non piaceva l’idea che nel Faro non c'era fondo, lo portò un'altra volta a Messina e gli disse: — "Cola, mi devi saper dire quanto è profondo, più o meno almeno, il Faro".
+text_id=colapisci|sent_id=82|Cola si tuffò e quando emerse disse che non aveva potuto vedere fondo, perché aveva visto una grande colonna di fumo che usciva da sotto uno scoglio, e perciò le acque erano torbide.
+text_id=colapisci|sent_id=83|Il Re, curioso, disse: — "Andiamocene a Torre Faro e ti getti da lì".
+text_id=colapisci|sent_id=84|Deve sapere vostra signoria che questa Torre copre quasi tutto il mare, tanto che ai tempi antichi uno ci si metteva sopra, e quando il mare risucchiava l’acqua, lui suonava una tromba e alzava una bandiera per non far passare le navi.
+text_id=colapisci|sent_id=85|Cola ci andò e si gettò.
+text_id=colapisci|sent_id=86|Aspetta aspetta, Cola non veniva mai.
+text_id=colapisci|sent_id=87|Il Re diceva: "Cosa ci deve essere".... 
+text_id=colapisci|sent_id=88|Finalmente Cola venne; ma questa volta era tutto spaventato.— "Cola, che cosa hai?" — "E che devo avere, Maestà! che sono spacciato.... Ho visto un pesce, che la sola testa era lunga quanto una nave, e io, per non farmi inghiottire, mi sono dovuto nascondere dietro una colonna di Messina".
+text_id=colapisci|sent_id=89|Il Re si stupì molto; ma la curiosità lo mangiava, perché voleva sapere quanto era profondo il Faro.
+text_id=colapisci|sent_id=90|Vedendo che Cola non voleva immergersi più, perché si era spaventato, si levò la corona tutta piena di pietre preziose, una cosa incredibile da vedere, e la gettò in mare e disse: — "Cola, va a prenderla".
+text_id=colapisci|sent_id=91|—"Maestà, non posso farlo".
+text_id=colapisci|sent_id=92|—"Cola, fallo per carità, perché un'altra corona simile non me la può fare nessuno".
+text_id=colapisci|sent_id=93|—"Maestà, volete così? perché io scendo; ma mi dice il cuore che questa volta non risalgo più.
+text_id=colapisci|sent_id=94|Datemi due pugni di lenticchie; se io vengo, allora è segno che sono vivo; ma se vedete venire in superficie le lenticchie, questo è segno che io non vengo più".
+text_id=colapisci|sent_id=95|Gli diedero le lenticchie, e Cola si immerse.
+text_id=colapisci|sent_id=96|Aspetta, aspetta; dopo tanto aspettare, videro emergere le lenticchie.
+text_id=colapisci|sent_id=97|Cola non venne, e non se ne seppe mai più nulla. (Palermo)
+
+text_id=colapisci|sent_id=98|Questo Piscicola, dicono gli antichi che era uno mezzo uomo e mezzo pesce, vuol dire che dalla cinta in su era uomo, e dalla cinta in giù un vero pesce.
+text_id=colapisci|sent_id=99|Egli passava la sua vita sott'acqua, nella profondità del mare e vedendo tutti gli scogli, le grotte, le ricchezze e le meraviglie del mare mentre andava. 
+text_id=colapisci|sent_id=100|Ora, dato che conosceva punto per punto il fondo del mare, questo Piscicola fece la carta di navigazione e la bussola, perché almeno i naviganti sapessero il cammino dove potevano navigare a vela.
+text_id=colapisci|sent_id=101|Per il tanto stare in acqua, questo Piscicola aveva la pelle tale e quale come un’aragosta.
+text_id=colapisci|sent_id=102|Se la faceva con le Sirene del mare, e dava fastidio ai più grossi pesci e animalacci dell'onda.
+text_id=colapisci|sent_id=103|Ma una volta gli andò male, perché volle scendere a visitare le grotte profonde di Scidda e Caridda, nello Stretto di Messina, perché successe che si fece il vortice mentre lui scendeva, e il vortice lo risucchiò in un detto e un fatto, e non ci comparve più.
+text_id=colapisci|sent_id=104|E così si perse questo potente Piscicola; ma ne rimase la fama per tutto il mondo, perché nuotatori come lui non ce ne sono stati più. (Borgetto)
+
+text_id=colapisci|sent_id=105|Narrano gli antichi che una volta comparve nella spiaggia di Messina un animale, mezzo uomo e mezzo Pesce, chiamato Piscicola.
+text_id=colapisci|sent_id=106|Questo chiamò tutti quanti i Messinesi che lì si trovavano e parlò loro in questo modo: — "Sentite, Messinesi: La vostra patria si chiama Messina, Ma verrà un giorno che si chiamerà meschina".
+text_id=colapisci|sent_id=107|A queste parole i Messinesi si disperarono, e chiesero con le lacrime agli occhi il perché, al Piscicola.
+text_id=colapisci|sent_id=108|Egli rispose loro così: — "Messina è sostenuta da tre colonne: una di queste è rotta, l'altra è incrinata e l'altra è intera, per cui il sostegno di Messina non è altro che una colonna, e non può resistere tanto a lungo; e verrà un giorno che Messina sprofonderà".
+text_id=colapisci|sent_id=109|I Messinesi allora si misero a piangere a dirotto, fecero un mondo di preghiere al Piscicola per andare più in fondo a vedere se c'era un altro fondamento che poteva sostenerla.
+text_id=colapisci|sent_id=110|Ma il Piscicola disse loro che era impossibile, perché il mare in questo punto è profondo, e se lui fosse partito per andare in fondo, non sarebbe riuscito a risalire un'altra volta e perciò non li poteva soddisfare.
+text_id=colapisci|sent_id=111|Ma i Messinesi lo pregarono con le lacrime agli occhi e il Piscicola si persuase.
+text_id=colapisci|sent_id=112|Aspetta, aspetta; aspettarono invano, i Messinesi, perché il Piscicola non tornò più a galla.
+text_id=colapisci|sent_id=113|I marinai raccontano che quando gettano l’ancora nel Faro, prende fuoco il buco da cui passa la catena. (Trapani)
+
+text_id=colapisci|sent_id=114|Questo Piscicola era un uomo con le branchie come un pesce, e che stava sott’acqua quanto gli pareva e piaceva.
+text_id=colapisci|sent_id=115|Questo Piscicola aspirava l'acqua dalle branchie e la gettava dalle narici.
+text_id=colapisci|sent_id=116|Una volta si trovò a passare dalla città di Messina il Re, e gli raccontarono che c'era questo Piscicola, che tuffandosi sempre aveva visto che la Sicilia era costruita su tre colonne: una rotta, l'altra che si stava rompendo e una intera; vuol dire che la Sicilia è costruita su una colonna e mezza.
+text_id=colapisci|sent_id=117|Il Re, sentendo che Piscicola andava in fondo, gli disse di andare a trovare quanto era profondo il Faro, e Piscicola gli rispose che era molto profondo, e in fondo c'erano tanti tipi di animali: pesci tanto grossi, che lui aveva paura di avvicinarsi, perché l’avrebbero mangiato; ma il Re lo costrinse ad andare a vedere il fondo e Piscicola non potè rifiutarsi e ci dovette andare; ma non emerse più. (Trapani)
+
+text_id=colapisci|sent_id=118|A Messina c'era un bambino, figlio di una lavandaia.
+text_id=colapisci|sent_id=119|Questo bambino abitava sempre alla marina.
+text_id=colapisci|sent_id=120|Un giorno cadde in mare, e vide che sapeva nuotare come un pesce.
+text_id=colapisci|sent_id=121|Le persone che lo videro diffusero la fama che questo bambino sapeva nuotare bene.
+text_id=colapisci|sent_id=122|Un giorno uno scienziato lo chiamò e gli chiese:-"Dimmi una cosa: sai vedere com'è situata Messina in fondo?"
+text_id=colapisci|sent_id=123|E lui gli disse di sì.
+text_id=colapisci|sent_id=124|Allora lo scienziato gli disse: — "E tu non ti spaventi dei grossi pesci?"
+text_id=colapisci|sent_id=125|Risposta di questo bambino:-"Se vengono pesci, io li taglio con questo coltello (perché portava un coltello in tasca); e se muoio, il segnale è che vedete emergere il mio sangue".
+text_id=colapisci|sent_id=126|Poi si gettò in mare.
+text_id=colapisci|sent_id=127|Dopo un giorno emerse, e raccontò ai Messinesi quello che aveva fatto: - "Arrivato in fondo, cercai, e vidi una grande porta di bronzo sospesa a due archi attaccati al molo, bussai a quella porta, e non mi rispose nessuno; tentai di aprirla, e non ci riuscii; ma poi decisi di tentare uno sforzo terribile.
+text_id=colapisci|sent_id=128|Mentre io stavo per bussare alla porta, eccola che si apre, e un pesce grosso mi inghiotte.
+text_id=colapisci|sent_id=129|Io, che avevo il coltello in tasca, spacco il pesce, esco e vedo una grande pianura sottomarina, dove c'erano tre colonne che sostengono Messina: una è rotta, un'altra è incrinata, e l'altra intera; e perciò Messina è in pericolo".
+text_id=colapisci|sent_id=130|A questo bambino diedero il nome di Piscicola. (Trapani)
+
+text_id=colapisci|sent_id=131|A Messina successe che un bue marino ogni sera si ritirava in una piccola grotta, che era nella spiaggia.
+text_id=colapisci|sent_id=132|Successe che un messinese si accorse che questo bue marino alla sera veniva a dormire in terra, e glielo disse al Re.
+text_id=colapisci|sent_id=133|E il Re rispose: - "Dì al bue marino che gli voglio parlare".
+text_id=colapisci|sent_id=134|Il messinese ci andò, e il bue gli disse: —"Se il Re vuole parlarmi, che venga lui di persona".
+text_id=colapisci|sent_id=135|Il Re partì, e andò dal bue marino.
+text_id=colapisci|sent_id=136|Quando il Re lo vide, gli disse: — "Bue marino, mi devi saper dire dove è posata Messina".
+text_id=colapisci|sent_id=137|Il bue rispose che voleva ventiquattro ore di tempo.
+text_id=colapisci|sent_id=138|L'indomani mattina si tuffò in fondo e dopo ventiquattro ore emerse dicendo al Re che Messina era posata su tre colonne: una spezzata, una incrinata e una intera.
+text_id=colapisci|sent_id=139|A questo fatto tutti i Messinesi si spaventarono; e il Re disse al bue se sapeva trovare il fondo dello Stretto di Messina, perché non c'era stato nessuno che l’avesse potuto trovare.
+text_id=colapisci|sent_id=140|Il bue marino, vedendo questo, gli disse: —"Maestà, mi dovete dare un pezzo di legno.
+text_id=colapisci|sent_id=141|Io mi tuffo con questo legno, e se alle ventiquattro ore io non emergo, emerge il legno".
+text_id=colapisci|sent_id=142|In fretta gli diedero il legno, e il bue marino si tuffò in fondo.
+text_id=colapisci|sent_id=143|Tutta Messina era sulla spiaggia che aspettava questo bue, ma non erano passate neanche diciannove ore, che si vide emergere il legno, la cui metà era bruciata.
+text_id=colapisci|sent_id=144|Allora tutti i Messinesi dissero che in fondo c'era fuoco, e che il bue marino era morto bruciato. (Trapani)
+
+text_id=colapisci|sent_id=145|Io non ne so niente di questo Piscicola, ma mio nonno, che morì molto vecchio, mi raccontava cose grandi di questo Piscicola.
+text_id=colapisci|sent_id=146|Dice che aveva le branchie come i pesci e aveva un'altra bocca sotto il mento, da questa bocca non mangiava, ma respirava; e stava ore intere sott'acqua come i pesci.
+text_id=colapisci|sent_id=147|Dice che si tuffava sempre nel Faro di Messina, e quando il mare era inquieto, ne dava l'avviso alle navi che dovevano partire.
+text_id=colapisci|sent_id=148|Come morì questo Piscicola?
+text_id=colapisci|sent_id=149|Ho sentito dire da certuni che una volta a Messina ci andò un gran signore, uno di questi principi, che per passarsi un capriccio arrivano perfino a far morire un poveretto; prese una cosa di brillanti e pietre preziose e la gettò nel Faro e volle che Piscicola la riprendesse.
+text_id=colapisci|sent_id=150|Piscicola la prese.
+text_id=colapisci|sent_id=151|Quel principe gliene gettò un'altra; il Piscicola si tuffò di nuovo, ma poveretto, ci lasciò la vita (Mazzara).
+
+text_id=colapisci|sent_id=152|Cola Pisci era uno mezzo uomo e mezzo pesce.
+text_id=colapisci|sent_id=153|Egli si era tuffato in tutti i golfi del mondo, e dopo averli girati tutti, venne a Siculiana.
+text_id=colapisci|sent_id=154|Qui fece amicizia con un argentiere, e dopo pochi giorni fecero una scommessa, che Cola doveva immergersi nel golfo di Siculiana.
+text_id=colapisci|sent_id=155|Cola acconsentì e gli disse così: — "Io scendo laggiù; se dopo mezz'ora appare una macchia di sangue, te ne vai per gli affari tuoi, perché io non vengo più".
+text_id=colapisci|sent_id=156|E così successe.
+text_id=colapisci|sent_id=157|Il punto dove Cola Pisci morì è vicino allo Scoglio del rossiccio (Siculiana)
+
+text_id=colapisci|sent_id=158|I Messinesi volevano sapere come fosse costruita Messina.
+text_id=colapisci|sent_id=159|La Regina disse al Piscicola: — "Scendi e vai a vedere".
+text_id=colapisci|sent_id=160|Il Piscicola andò, tornò e le disse: — "Messina è costruita su colonne di ferro, e l’acqua del Faro esce calda da un buco".
+text_id=colapisci|sent_id=161|La Regina gli rispose: — "Ci devi scendere di nuovo, e vogliamo sapere da dove esce quest’acqua molto calda".
+text_id=colapisci|sent_id=162|Il Piscicola le disse:— "Mi volete morto? Io non torno più.
+text_id=colapisci|sent_id=163|Datemi una canna; se dopo un'ora la canna sale, io sono morto". 
+text_id=colapisci|sent_id=164|La canna salì e il Piscicola morì (S. Cataldo).
+text_id=colapisci|sent_id=165|Un tempo, qua dal Faro passavano le grandi navi, e c'era un bel canto nel mare; era tanto bello che i marinai si addormentavano: ed erano due Sirene che facevano questo canto, una si chiamava Sciglia e l'altra si chiamava Carilla.
+text_id=colapisci|sent_id=166|Così le navi si inabissavano tutte.
+text_id=colapisci|sent_id=167|Ora c'era un tale Gialanti, che mise una scommessa con i Calabresi, di prendere queste Sirene.
+text_id=colapisci|sent_id=168|Questo Gialanti era un uomo brutto, e sapeva nuotare come un pesce: e lui ebbe l'abilità di prenderle.
+text_id=colapisci|sent_id=169|E cosa fa? Si fece mettere una campana alla testa, prese un po' di pane, un po' di formaggio (perché non sapeva quanto tempo doveva stare in fondo), e si gettò in mare.
+text_id=colapisci|sent_id=170|C'era una corda con una campana fuori dall'acqua: se tirava la corda e la campana suonava, vuol dire che era vivo; se non suonava, vuol dire che era morto. 
+text_id=colapisci|sent_id=171|Ecco che scese in fondo e cominciò a incatenare la prima Sirena, che era la più bella, ed era Sciglia.
+text_id=colapisci|sent_id=172|La seconda cercava di fargli male, ma lui ebbe il modo di incatenarla per il collo e per le mani, e così Carilla non si poté più muovere.
+text_id=colapisci|sent_id=173|Le portò su, e quando le portò su piangevano, perché non volevano essere incatenate.
+text_id=colapisci|sent_id=174|Quando furono su, le prese e le consegnò alle persone.
+text_id=colapisci|sent_id=175|Queste due Sirene furono imbalsamate non appena uscirono dal mare.
+text_id=colapisci|sent_id=176|Fu tale il valore di questo Gialanti, che i Messinesi gli fecero la statua, e la fecero tanto a lui quanto alle Sirene.
+text_id=colapisci|sent_id=177|Finita la statua, si mise con le mani indietro, e disse: — "Miei cari Messinesi, Tengo un e...  ai Calabresi   "; perché i Calabresi non potevano credere che lui arrivasse a prendere queste Sirene.
+text_id=colapisci|sent_id=178|I Reggini furono tanto contenti di questo problema che tolse loro questo Gialanti con il prendere queste Sirene, che gli diedero un dono, vale a dire una rendita.
+text_id=colapisci|sent_id=179|Dopo che gli fecero la statua, questo Gialanti visse un altro po' di anni e morì; ma morì giovane, e morì a forza di tuffarsi, perché si tuffava da qui al Faro, e dal Faro in Calabria, andando sempre sott’acqua. (Messina)
+text_id=ucuntudipurpu|sent_id=1|Eravamo quattro ragazzi.
+text_id=ucuntudipurpu|sent_id=2|Quattro ragazzi che giocavano insieme, che andavano in giro insieme, che facevano tutto insieme.
+text_id=ucuntudipurpu|sent_id=3|Insomma, noi eravamo sempre insieme.
+text_id=ucuntudipurpu|sent_id=4|A noi, in paese, ci chiamavano "l’Armali", e questo perché ognuno di noi era conosciuto, come soprannome, proprio come un animale.
+text_id=ucuntudipurpu|sent_id=5|Per farvi capire meglio: c’era Pippineḍḍu soprannominato "u Liotru", perché aveva due orecchie così grandi che sembravano due ombrelli;
+text_id=ucuntudipurpu|sent_id=6|Ntoniu, soprannominato "u Bromu" perché era sempliciotto, e proprio come le meduse a volte sembrava non avere un cervello;
+text_id=ucuntudipurpu|sent_id=7|Lillu, soprannominato "a Taḍḍarita" perché andava a letto a notte fonda e si svegliava tardi al mattino.
+text_id=ucuntudipurpu|sent_id=8|E io?
+text_id=ucuntudipurpu|sent_id=9|A me, che sono Sarbaturi, anche detto Turiḍḍu, mi chiamavano "u Purpu" perchè una volta uscii in tiro con una giacca rosa.
+text_id=ucuntudipurpu|sent_id=10|Un giorno, come tutti gli altri, eravamo in giro.
+text_id=ucuntudipurpu|sent_id=11|Ci eravamo messi d’accordo per fare una sorta di pic-nic per le campagne.
+text_id=ucuntudipurpu|sent_id=12|Infatti, lo zio di Lillu possedeva una campagna bellissima: spazio infinito, piante che si potevano solo sognare, anche qualche agave tra frasche ed erba.
+text_id=ucuntudipurpu|sent_id=13|Noi ci andammo proprio per passare una buona giornata:
+text_id=ucuntudipurpu|sent_id=14|era il mese di Luglio, e quello era il periodo perfetto per un pic-nic in campagna.
+text_id=ucuntudipurpu|sent_id=15|Dopo che mangiammo, stesi vicino a un albero, Lillu si alzò e cominciò a parlare: -"Raga’, svegliatevi e ascoltatemi un po’! Dobbiamo andare là in fondo: una volta mio zio mi disse che c’è una specie di fondaco abbandonato! Ci dobbiamo dare un’occhiata".
+text_id=ucuntudipurpu|sent_id=16|Indicò poi con il dito una scarpata un po' più lontana dalla tovaglia dove ci eravamo sdraiati per mangiare.
+text_id=ucuntudipurpu|sent_id=17|Ntoniu, pigro come al solito, gli rispose: -"Dai amico, che ci dobbiamo andare a fare, mi annoia, restiamo qui".
+text_id=ucuntudipurpu|sent_id=18|A quel punto, mi alzai anche io e dissi: -"Sono d’accordo con Lillu. Facciamo qualcosa di più interessante ogni tanto! Andiamo!"
+text_id=ucuntudipurpu|sent_id=19|E tutti gli altri si alzarono.
+text_id=ucuntudipurpu|sent_id=20|Cominciammo a farci strada, tra agavi e fichi d’India, passando accanto a un piccolo corso d'acqua, che serviva come canale per il nuoto.
+text_id=ucuntudipurpu|sent_id=21|Mentre camminavamo, che sembravamo una banda di sciocchi, cominciammo a sentire una puzza da morire.
+text_id=ucuntudipurpu|sent_id=22|-"Che cazzo è questa puzza? Chi si è cagato addosso?" disse Ntoniu, che con una mano si tappava il naso per non sentire quella puzza.
+text_id=ucuntudipurpu|sent_id=23|"Ntò, non è come pensi… guardate tutti là sotto…" rispose Pippineḍḍu, che rimase impietrito.
+text_id=ucuntudipurpu|sent_id=24|Proprio come rimanemmo impietriti tutti noi dopo che guardammo.
+text_id=ucuntudipurpu|sent_id=25|In mezzo al terreno, sotto un albero di caccamo, c’era un uomo morto, forse ucciso.
+text_id=ucuntudipurpu|sent_id=26|Insomma: un cadavere.
+text_id=ucuntudipurpu|sent_id=27|Era pieno di mosche che gli volavano di sopra, e di insetti che gli strisciavano sopra.
+text_id=ucuntudipurpu|sent_id=28|Aveva la faccia bianca, sporca e schiacciata, al punto che non si riuscivano a distinguere nemmeno gli occhi.
+text_id=ucuntudipurpu|sent_id=29|Non era certo in tiro, portava solo un paio di pantaloni strappati e sporchi di sangue.
+text_id=ucuntudipurpu|sent_id=30|Per il resto, la pelle sembrava come graffiata con una forchetta.
+text_id=ucuntudipurpu|sent_id=31|-"Ma è normale che puzzi così tanto?" ci chiese ‘Ntoniu, disgustato.
+text_id=ucuntudipurpu|sent_id=32|-"Che pensavi, che un uomo morto profumasse di fiori?", gli risposi.
+text_id=ucuntudipurpu|sent_id=33|-"Non sprecare fiato, che potevo sapere mai io?" disse lui.
+text_id=ucuntudipurpu|sent_id=34|-"Buoni, raga’, state zitti e non litigate. Che facciamo ora? Glielo dobbiamo dire a qualcuno" disse infine Lillu, interrompendoci.
+text_id=ucuntudipurpu|sent_id=35|Nessuno di noi sapeva cosa fare.
+text_id=ucuntudipurpu|sent_id=36|Come prima cosa, tornammo a casa per prendere il telefono: dovevamo chiamare qualcuno, magari la polizia, ma per il momento decidemmo di mantenere il segreto.
+text_id=ucuntudipurpu|sent_id=37|Lillu chiamò solo suo zio, sperando che almeno lui potesse dirci cosa fare.
+text_id=ucuntudipurpu|sent_id=38|Suo zio, Melu, solo una cosa ci volle dire: -"Meglio che vi cuciate la bocca. Nessuno deve venirlo a sapere", poi attaccò il telefono.
+text_id=ucuntudipurpu|sent_id=39|-"Che significa? Abbiamo trovato un uomo morto e dobbiamo stare muti? Non si dovrebbero fare le indagini? La polizia deve scoprire chi è stato a commettere questo omicidio!" disse Pippineḍḍu, e tutti noi eravamo d’accordo con lui.
+text_id=ucuntudipurpu|sent_id=40|La verità era solo una: eravamo tutti troppo piccoli, solo un gruppo di ragazzi, non sapevamo come funzionassero le cose, come funzionasse il mondo.
+text_id=ucuntudipurpu|sent_id=41|Lo zio Melu, infatti, era molto preoccupato.
+text_id=ucuntudipurpu|sent_id=42|Aveva paura che ci potesse succedere qualcosa, che potesse esserci la mafia dietro questo omicidio, e che magari anche lui potesse fare la stessa fine.
+text_id=ucuntudipurpu|sent_id=43|Insomma, passarono molti minuti ed eravamo ancora fermi, come statue di cera, nella stanza dove si trovava il telefono.
+text_id=ucuntudipurpu|sent_id=44|"Ascoltatemi tutti: freghiamocene di quello che ci ha detto mio zio. Voglio dire, non è che possiamo far finta di niente!" fu quello che disse Lillu e, anche questa volta, tutti noi eravamo d’accordo con lui.
+text_id=ucuntudipurpu|sent_id=45|Per come la vedevamo noi, giustizia andava fatta: ci sentivamo come una fiamma che nemmeno il soffio del vento poteva spegnere.
+text_id=ucuntudipurpu|sent_id=46|Così, componendo il numero, chiamò la polizia.
+text_id=ucuntudipurpu|sent_id=47|Il tempo passò, i giorni trascorsero, e tutti in paese parlavano del morto che quattro ragazzi, "l’armali", avevano trovato in mezzo alla campagna.
+text_id=ucuntudipurpu|sent_id=48|Non riesco a mentire, eravamo tutti abbastanza spaventati all’idea che potesse succederci qualcosa, Lillu si beccò due scappellotti (suo zio lo picchiò perché gli aveva detto di non parlare ma lui fece di testa sua), ma a parte questo, nessuno si fece male.
+text_id=ucuntudipurpu|sent_id=49|Ancora oggi, anche se sono passati più di trent’anni, non l’ho dimenticato.
+text_id=ucuntudipurpu|sent_id=50|In tutta questa storia quello che, a quei tempi, mi fece più strano fu che nessuno seppe dire chi fosse il bastardo che aveva ammazzato quel pover’uomo.
+text_id=ucuntudipurpu|sent_id=51|Adesso che sono cresciuto, che gli anni sono passati, lo so, e fin troppo bene: il governo volle insabbiare tutto.
+text_id=ucuntudipurpu|sent_id=52|Certo, nella terra della mafia poteva sembrare normale pensare che c’era qualche mafioso dietro tutta questa storia, ma la verità era tutt’altra, e certo non così semplice.
+text_id=ucuntudipurpu|sent_id=53|Sono stati gli alieni ad ammazzare quell’uomo.
+text_id=ucuntudipurpu|sent_id=54|Ne sono così sicuro perché, i giorni dopo, più di una volta, vidi un bagliore nel cielo, assieme a quello che sembrava essere una specie di apparecchio, tondo e piatto, che volava tra le stelle di notte.
+text_id=ucuntudipurpu|sent_id=55|Lo so cosa fanno quando prelevano qualche umano per portarlo sopra l’astronave: gli succhiano il sangue, gli bucano tutto il corpo, ne studiano il cervello e per concludere gli bucano i denti con il trapano.
+text_id=ucuntudipurpu|sent_id=56|Dopo che terminano, scaricano a terra ciò che resta dell’umano che si erano portati via.
+text_id=ucuntudipurpu|sent_id=57|Sono sicuro, a quello, trent’anni fa, successe proprio questo.
+text_id=ucuntudipurpu|sent_id=58|Già lo so, vi vedo, voi che leggete questa lettera: pensate che io sia impazzito, vi capisco
+text_id=ucuntudipurpu|sent_id=59|Ma io non sono un pazzo, non sono un bugiardo.
+text_id=ucuntudipurpu|sent_id=60|Quando ho iniziato a capire che gli assassini erano stati gli alieni, ogni giorno andavo nella piazza del paese per dirlo a tutti, ma nessuno mi credeva.
+text_id=ucuntudipurpu|sent_id=61|Una volta le cose cambiarono: era notte fonda, stavo cercando di dormire, ma sentivo delle voci nella mia testa.
+text_id=ucuntudipurpu|sent_id=62|Qualcuno mi diceva di uscire.
+text_id=ucuntudipurpu|sent_id=63|Più passava il tempo, più quelle voci si facevano forti.
+text_id=ucuntudipurpu|sent_id=64|Allora, senza sapere cosa fare, uscii fuori, nel giardino.
+text_id=ucuntudipurpu|sent_id=65|Mi portai un cuscino, un lenzuolo e preparai un giaciglio per terra, per dormire.
+text_id=ucuntudipurpu|sent_id=66|All’inizio tutto sembrava normale, nulla di strano, solo un gallo che cantava e qualche grillo.
+text_id=ucuntudipurpu|sent_id=67|Passarono cinque minuti, o poco più, e vidi un bagliore così potente da cancellare tutto il buio della notte, una luce bianca e fredda.
+text_id=ucuntudipurpu|sent_id=68|Dopo altri due minuti mi accorsi di qualcosa che mi fece venire la pelle d’oca: dalla luce si intravedeva quella che sembrava una figura umana, bassa e magra, come un bimbo, con la testa a forma di lampada e due occhi grandi e neri, senza palpebre, neri come le cozze.
+text_id=ucuntudipurpu|sent_id=69|Non vidi naso o bocca.
+text_id=ucuntudipurpu|sent_id=70|La pelle era grigia, liscia come quella delle rane.
+text_id=ucuntudipurpu|sent_id=71|Braccia e gambe erano lunghe, con solo quattro dita per piede.
+text_id=ucuntudipurpu|sent_id=72|Ogni dito terminava con un’unghia lunga e nera.
+text_id=ucuntudipurpu|sent_id=73|In quel momento ero spaventato a morte, rimasi senza fiato.
+text_id=ucuntudipurpu|sent_id=74|Provai a scattargli una foto, ma la macchina fotografica che avevo portato non funzionava.
+text_id=ucuntudipurpu|sent_id=75|Almeno, però, ora potevo essere soddisfatto: avevo visto un vero e proprio alieno.
+text_id=ucuntudipurpu|sent_id=76|La mattina dopo raccontai questa storia a tutti i miei amici, ma come sempre, nessuno mi credeva.
+text_id=ucuntudipurpu|sent_id=77|Anche gli amici di una vita, gli altri "Armali", mi dissero che ero impazzito.
+text_id=ucuntudipurpu|sent_id=78|"Non c’è nulla da fare, lo abbiamo perso" dicevano tra loro.
+text_id=ucuntudipurpu|sent_id=79|E adesso, dopo che perfino i miei amici più stretti, i miei compagni più fidati, mi disprezzano, posso concludere ciò che di me è stato in questo mondo.
+text_id=ucuntudipurpu|sent_id=80|Se qualcuno sta leggendo questa lettera, significa una sola cosa: che a quest’ora sono già morto, e che sono salito in paradiso insieme a quell’uomo che trent’anni fa trovammo in mezzo al terreno.
