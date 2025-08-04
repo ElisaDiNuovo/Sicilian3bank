@@ -1,4 +1,6 @@
 # newdoc id = amarasapi
+# doc_info = Catania_2024
+# newpar
 # sent_id = amarasapi_1
 # text = «Amara a mia, a stu Zuccu, e a cu' mi cci purtau!», arripitiva 'n sichitanza Nardu.
 # translation = «Accidenti a me, a questo Zuccu, e a chi mi ci portò!», ripeteva in continuazione Nardu.
@@ -5629,6 +5631,8 @@
 7	»	»	PUNCT	FB	_	3	punct	_	TokenRange=17:18
 
 # newdoc id = colapisci
+# doc_info = Messina_1904
+# newpar
 # sent_id = colapisci_1
 # text = Cola Pisci era un farotu, ca sapia natari megghiu d'un pisci; basta diri ca java di Missina a Catania e di Catania a Missina, sempri sutt'acqua.
 # translation = Cola Pisci era un abitante di Torre Faro che sapeva nuotare meglio di un pesce; basta dire che andava da Messina a Catania e da Catania a Messina, sempre sott'acqua.
@@ -6203,8 +6207,9 @@
 28	)	)	PUNCT	FB	_	27	punct	_	SpaceAfter=No|TokenRange=1973:1974
 29	.	.	PUNCT	FS	_	3	punct	_	TokenRange=1974:1975
 
-# newpar
 # sent_id = colapisci_24
+# doc_info = Ganzirri_1904
+# newpar
 # text = Cola Pisci era n'omu chi natava comu un pisci.
 # translation = Cola Pisci era un uomo che nuotava come un pesce.
 1	Cola	Cola	PROPN	SP	_	5	nsubj	_	TokenRange=1953:1957
@@ -6381,8 +6386,9 @@
 18	Ganzirri	Ganzirri	PROPN	SP	_	14	parataxis	_	SpaceAfter=No|TokenRange=2600:2608
 19	)	)	PUNCT	FB	_	18	punct	_	TokenRange=2608:2609
 
-# newpar
 # sent_id = colapisci_31
+# doc_info = Roccalumera_1904
+# newpar
 # text = Cola Pisci jera un forti naitaturi d''u Faru, menzu pisci e menzu omu; d''a panza 'n supra era omu comu a nui e stava fora 'ell'acqua; d''a panza 'n sutta era pisci e non niscia mai 'ill'acqua.
 # translation = Cola Pisci era un forte nuotatore del Faro, mezzo pesce e mezzo uomo; dalla pancia in su era uomo come noi e stava fuori dall'acqua; dalla pancia in giù era pesce e non usciva mai dall'acqua.
 1	Cola	Cola	PROPN	SP	_	6	nsubj	_	TokenRange=0:4
@@ -6576,8 +6582,9 @@
 24	Roccalumera	Roccalumera	PROPN	SP	_	8	parataxis	_	SpaceAfter=No|TokenRange=706:717
 25	)	)	PUNCT	FB	_	24	punct	_	TokenRange=717:718
 
-# newpar
 # sent_id = colapisci_36
+# doc_info = Sant'Agata_di_Militello_1904
+# newpar
 # text = A Missina cc'era un omu chi lu chiamavanu Pisci Cola.
 # translation = A Messina c'era un uomo che veniva chiamato Pisci Cola.
 1	A	a	ADP	E	_	2	case	_	TokenRange=720:721
@@ -6924,6 +6931,8 @@
 41	)	)	PUNCT	FB	_	37	punct	_	TokenRange=2012:2013
 
 # sent_id = colapisci_45
+# doc_info = Messina_e_Palermo_1904
+# newpar
 # text = Stu Cola Pisci era unu menzu omu e menzu pisci.
 # translation = Questo Cola Pisci era uno mezzo uomo e mezzo pesce.
 1	Stu	chistu	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	TokenRange=2015:2021
@@ -7267,6 +7276,8 @@
 46	)	)	PUNCT	FB	_	43	punct	_	TokenRange=3329:3330
 
 # sent_id = colapisci_56
+# doc_info = Termini_1904
+# newpar
 # text = Stu Piscicola era unu di lu Faru, ca di picciriddu 'un facia àutru chi stari a mari natannu di la matina fin'a la sira, picchì lu sò geniu lu purtava ddà.
 # translation = Questo Piscicola era uno del Faro, che da piccolo non faceva altro che stare in mare nuotando dalla mattina fino alla sera, perché il suo genio lo portava lì.
 1	Stu	chistu	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	TokenRange=3332:3338
@@ -7472,8 +7483,9 @@
 46	Termini	Termini	PROPN	SP	_	11	parataxis	_	SpaceAfter=No|TokenRange=4124:4131
 47	)	)	PUNCT	FB	_	46	punct	_	TokenRange=4131:4132
 
-# newpar
 # sent_id = colapisci_61
+# doc_info = Palermo_1904
+# newpar
 # text = 'Na vota s'arriccunta ca un marinaru trasíu 'n cunfidenza cu la Sirena di lu mari, e misi scummissa, 'un sàcciu di chi, ca idda 'un si fidava di jiri pi ssina 'n funnu a pigghiari 'n aneddu.
 # translation = Una volta si racconta che un marinaio entrò in confidenza con la Sirena del mare, e scommise, non so cosa, che lei non sarebbe stata capace di andare fino in fondo a prendere un anello.
 1	'Na	unu	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	TokenRange=0:3
@@ -7662,8 +7674,9 @@
 16	Palermo	Palermo	PROPN	SP	_	5	parataxis	_	SpaceAfter=No|TokenRange=722:729
 17	)	)	PUNCT	FB	_	16	punct	_	TokenRange=729:730
 
-# newpar
 # sent_id = colapisci_66
+# doc_info = Palermo_1904
+# newpar
 # text = 'Na vota cc'era a Missina 'na matri, ch'avia un figghiu; stu figghiu si chiamava Cola, e stava sempri jiccatu a mari.
 # translation = Una volta c'era a Messina una madre, che aveva un figlio; questo figlio si chiamava Cola, e stava sempre in mare.
 1	'Na	unu	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	TokenRange=732:735
@@ -8707,8 +8720,9 @@
 18	)	)	PUNCT	FB	_	17	punct	_	SpaceAfter=No|TokenRange=4651:4652
 19	.	.	PUNCT	FB	_	17	punct	_	TokenRange=4651:4652
 
-# newpar
 # sent_id = colapisci_98
+# doc_info = Borgetto_1904
+# newpar
 # text = Stu Piscicola, dicinu l'antichi ca era unu menzu omu e menzu pisci, veni a diri di la cinta 'n susu era omu, e di la cinta appinninu un veru pisci.
 # translation = Questo Piscicola, dicono gli antichi che era uno mezzo uomo e mezzo pesce, vuol dire che dalla cinta in su era uomo, e dalla cinta in giù un vero pesce.
 1	Stu	chistu	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	TokenRange=4654:4660
@@ -8984,8 +8998,9 @@
 31	Borgetto	Borgetto	PROPN	SP	_	4	parataxis	_	SpaceAfter=No|TokenRange=5793:5801
 32	)	)	PUNCT	FB	_	31	punct	_	TokenRange=5801:5802
 
-# newpar
 # sent_id = colapisci_105
+# doc_info = Trapani_1904
+# newpar
 # text = Cuntanu l'antichi chi una vota cumpariu nna la spiaggia di Missina unu animali, mezzu omu e mezzu Pisci, chiamatu Piscicola.
 # translation = Narrano gli antichi che una volta comparve nella spiaggia di Messina un animale, mezzo uomo e mezzo Pesce, chiamato Piscicola.
 1	Cuntanu	cuntari	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=0:7
@@ -9313,8 +9328,9 @@
 24	Trapani	Trapani	PROPN	SP	_	3	parataxis	_	SpaceAfter=No|TokenRange=1364:1371
 25	)	)	PUNCT	FB	_	24	punct	_	TokenRange=1371:1372
 
-# newpar
 # sent_id = colapisci_114
+# doc_info = Trapani_1904
+# newpar
 # text = Chistu Piscicola era un omu cu li 'argi comu un pisci, e chi stava sutta mari quantu cci paría e piacía.
 # translation = Questo Piscicola era un uomo con le branchie come un pesce, e che stava sott'acqua quanto gli pareva e piaceva.
 1	Chistu	chistu	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	TokenRange=1374:1380
@@ -9523,8 +9539,9 @@
 89	Trapani	Trapani	PROPN	SP	_	12	parataxis	_	SpaceAfter=No|TokenRange=2271:2278
 90	)	)	PUNCT	FB	_	89	punct	_	TokenRange=2278:2279
 
-# newpar
 # sent_id = colapisci_118
+# doc_info = Trapani_1904
+# newpar
 # text = A Missina cc'era un picciriddru, figghiu di 'na lavannara.
 # translation = A Messina c'era un bambino, figlio di una lavandaia.
 1	A	a	ADP	E	_	2	case	_	TokenRange=2281:2282
@@ -9894,8 +9911,9 @@
 13	)	)	PUNCT	FB	_	12	punct	_	SpaceAfter=No|TokenRange=3645:3646
 14	.	.	PUNCT	FB	_	12	punct	_	TokenRange=3645:3646
 
-# newpar
 # sent_id = colapisci_131
+# doc_info = Trapani_1904
+# newpar
 # text = A Missina successi, chi un voi marinu ogni sira si ritirava nn'una grutticedda, chi era nna la praja.
 # translation = A Messina successe che un bue marino ogni sera si ritirava in una piccola grotta, che era nella spiaggia.
 1	A	a	ADP	E	_	2	case	_	TokenRange=3648:3649
@@ -10287,8 +10305,9 @@
 24	)	)	PUNCT	FB	_	23	punct	_	SpaceAfter=No|TokenRange=5099:5100
 25	.	.	PUNCT	FB	_	23	punct	_	TokenRange=5099:5100
 
-# newpar
 # sent_id = colapisci_145
+# doc_info = Mazzara_1904
+# newpar
 # text = Jeni nu nni sàcciu nenti di stu Piscicola, ma mè nannu, ca morsi vecchiu assà', mi cuntava cosi 'ranni di stu Piscicola.
 # translation = Io non ne so niente di questo Piscicola, ma mio nonno, che morì molto vecchio, mi raccontava cose grandi di questo Piscicola.
 1	Jeni	jeu	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	TokenRange=0:2
@@ -10502,8 +10521,9 @@
 23	)	)	PUNCT	FB	_	22	punct	_	SpaceAfter=No|TokenRange=866:867
 24	.	.	PUNCT	FB	_	22	punct	_	TokenRange=866:867
 
-# newpar
 # sent_id = colapisci_152
+# doc_info = Siculiana_1904
+# newpar
 # text = Cola Pisci era unu mezzu omu e mezzu pisci.
 # translation = Cola Pisci era uno mezzo uomo e mezzo pesce.
 1	Cola	Cola	PROPN	SP	_	6	nsubj	_	TokenRange=869:873
@@ -10650,8 +10670,9 @@
 16	)	)	PUNCT	FB	_	15	punct	_	SpaceAfter=No|TokenRange=1404:1405
 17	.	.	PUNCT	FB	_	15	punct	_	TokenRange=1404:1405
 
-# newpar
 # sent_id = colapisci_158
+# doc_info = San_Cataldo_1904
+# newpar
 # text = Li Missinisi vulevanu sapiri com'era frabbricata Missina.
 # translation = I Messinesi volevano sapere come fosse costruita Messina.
 1	Li	lu	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	TokenRange=1407:1408
@@ -10815,6 +10836,8 @@
 12	.	.	PUNCT	FB	_	9	punct	_	TokenRange=1954:1955
 
 # sent_id = colapisci_165
+# doc_info = Messina_1904
+# newpar
 # text = Un tempu, di ccà di lu Faru passavanu li gran bastimenti, e cc'era un bellu cantu 'nt'ô mari; era tantu bellu, ca li marinara si 'ndrummintavanu: ed eranu ddui Sireni ca facevanu stu cantu, una si chiamava Sciglia e l'àutra si chiamava Carilla.
 # translation = Un tempo, qua dal Faro passavano le grandi navi, e c'era un bel canto nel mare; era tanto bello che i marinai si addormentavano: ed erano due Sirene che facevano questo canto, una si chiamava Sciglia e l'altra si chiamava Carilla.
 1	Un	unu	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=1957:1959
@@ -11323,6 +11346,8 @@
 52	)	)	PUNCT	FB	_	51	punct	_	TokenRange=3950:3951
 
 # newdoc id = ucuntudipurpu
+# doc_info = Agrigento_2024
+# newpar
 # sent_id = ucuntudipurpu_1
 # text = Èramu quattru picciotti.
 # translation = Eravamo quattro ragazzi. 
@@ -11331,6 +11356,7 @@
 3	picciotti	picciottu	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_2
 # text = Quattru picciotti ca jucàvanu nzèmmula, ca passijàvanu strati strati nzèmmula, ca facìanu tutti cosi nzèmmula.
 # translation = Quattro ragazzi che giocavano insieme, che andavano in giro insieme, che facevano tutto insieme. 
@@ -11353,6 +11379,7 @@
 17	nzèmmula	inzèmmula	ADV	B	_	14	advmod	_	SpaceAfter=No
 18	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_3
 # text = Nzumma, nuiautri èramu ogni jornu unu cu n'autru.
 # translation = Insomma, noi eravamo sempre insieme. 
@@ -11368,6 +11395,7 @@
 10	autru	autru	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	nmod	_	SpaceAfter=No
 11	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_4
 # text = A nuaiutri, nnô pajisi, ni chiamàvanu "l'Armali", chistu picchì ognidunu di nuiautri era ntisu, comu nciuria, comu n'armalu pricisu.
 # translation = A noi, in paese, ci chiamavano "l’Armali", e questo perché ognuno di noi era conosciuto, come soprannome, proprio come un animale. 
@@ -11403,6 +11431,7 @@
 29	pricisu	pricisu	ADJ	A	Gender=Masc|Number=Sing	28	amod	_	SpaceAfter=No
 30	.	.	PUNCT	FS	_	9	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_5
 # text = Pi fàrivi accapiri megghiu, cc'era Pippineḍḍu, ntisu "u Liotru", picchì avìa du’ aricchi accussì granni ca parìanu du’ paracqua;
 # translation = Per farvi capire meglio: c’era Pippineḍḍu soprannominato "u Liotru", perché aveva due orecchie così grandi che sembravano due ombrelli;
@@ -11435,6 +11464,7 @@
 26	paracqua	paracqua	NOUN	_	Gender=Masc	24	obj	_	SpaceAfter=No
 27	;	;	PUNCT	FC	_	8	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_6
 # text = Ntoniu, ntisu "u Bromu", picchì era babbuliḍḍu, e propia comu li broma a li voti parìa senza ciriveḍḍu;
 # translation = Ntoniu, soprannominato "u Bromu" perché era sempliciotto, e proprio come le meduse a volte sembrava non avere un cervello;
@@ -11463,6 +11493,7 @@
 23	ciriveḍḍu	ciriveddu	NOUN	S	Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
 24	;	;	PUNCT	FC	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_7
 # text = Lillu, ntisu "a Taḍḍarita", picchì si curcava a notti fatta e si addrivigghiava tardu a la matina.
 # translation = Lillu, soprannominato "a Taḍḍarita" perché andava a letto a notte fonda e si svegliava tardi al mattino.
@@ -11489,6 +11520,7 @@
 21	matina	matina	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
 22	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_8
 # text = E iu?
 # translation = E io?
@@ -11496,6 +11528,7 @@
 2	iu	iu	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	SpaceAfter=No
 3	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_9
 # text = A mia, ca sugnu Sarbaturi, macari dittu Turiḍḍu, mi chiamàvanu "u Purpu", picchì na vota niscivu azzizzatu cu na bunaca rosa.
 # translation = A me, che sono Sarbaturi, anche detto Turiḍḍu, mi chiamavano "u Purpu" perchè una volta uscii in tiro con una giacca rosa.
@@ -11528,6 +11561,7 @@
 27	rosa	rosa	ADJ	A	Gender=Fem|Number=Sing	26	amod	_	SpaceAfter=No
 28	.	.	PUNCT	FS	_	13	punct	_	SpacesAfter=\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_10
 # text = Un jornu, comu tutti l'autri, èramu fora.
 # translation = Un giorno, come tutti gli altri, eravamo in giro.
@@ -11543,6 +11577,7 @@
 10	fora	fora	ADV	B	_	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	FS	_	10	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_11
 # text = Ni mìsimu d'accordu pi fari na speci di schiticchiu campagni campagni.
 # translation = Ci eravamo messi d’accordo per fare una sorta di pic-nic per le campagne.
@@ -11560,6 +11595,7 @@
 12	campagni	campagna	NOUN	S	Gender=Fem|Number=Plur	11	compound	_	SpaceAfter=No
 13	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_12
 # text = Nfatti, u ziu di Lillu avìa na campagna ca era troppu beḍḍa: spazziu ca nun finìa cchiù, chianti ca si putìanu sulu mmagginari, macari quarchi zàbbara a menzu a li fraschi e a li cannizzola.
 # translation = Infatti, lo zio di Lillu possedeva una campagna bellissima: spazio infinito, piante che si potevano solo sognare, anche qualche agave tra frasche ed erba.
@@ -11604,6 +11640,7 @@
 39	cannizzola	cannizzola	NOUN	S	Gender=Fem|Number=Plur	35	conj	_	SpaceAfter=No
 40	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_13
 # text = Nuiautri cci vòsimu jiri propia pi passari na bona jurnata:
 # translation = Noi ci andammo proprio per passare una buona giornata:
@@ -11619,6 +11656,7 @@
 10	jurnata	jurnata	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
 11	:	:	PUNCT	FC	_	4	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_14
 # text = èramu nnô misi di giugnettu, e a ḍḍ'ura cci putìa stari nu schiticchiu ‘n campagna.
 # translation = era il mese di Luglio, e quello era il periodo perfetto per un pic-nic in campagna.
@@ -11643,6 +11681,7 @@
 18	campagna	campagna	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_15
 # text = Doppu ca manciammu, stinnicchiati appressu ôn lannireḍḍu, Lillu si susìu e accuminciau a parrari: -"Picciò, arrisbigghiàtivi e ascutàtimi n’anticchia! Âm'a jiri ḍḍà sutta: me ziu mi dissi, na vota, ca cc'è na speci di fùnnacu abbannunatu! Cci âm'a dari na taliata".
 # translation = Dopo che mangiammo, stesi vicino a un albero, Lillu si alzò e cominciò a parlare: -"Raga’, svegliatevi e ascoltatemi un po’! Dobbiamo andare là in fondo: una volta mio zio mi disse che c’è una specie di fondaco abbandonato! Ci dobbiamo dare un’occhiata".
@@ -11712,6 +11751,7 @@
 61	"	"	PUNCT	FB	_	23	punct	_	SpaceAfter=No
 62	.	.	PUNCT	FS	_	13	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_16
 # text = E poi nnicau cû jìditu na timpa tanticchia cchiù arrassu dâ tuvagghia d'unni n’avìamu stinnicchiatu pi manciari.
 # translation =  Indicò poi con il dito una scarpata un po' più lontana dalla tovaglia dove ci eravamo sdraiati per mangiare. 
@@ -11740,6 +11780,7 @@
 21	manciari	manciari	VERB	V	VerbForm=Inf	19	advcl	_	SpaceAfter=No
 22	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_17
 # text = Ntoniu, lagnusu comu ô sòlitu, ci arrispunnìu: -"Avà cumpà, chi cci jemu a fari, mi siḍḍija, stàmuni cca".
 # translation = Ntoniu, pigro come al solito, gli rispose: -"Dai amico, che ci dobbiamo andare a fare, mi annoia, restiamo qui". 
@@ -11774,6 +11815,7 @@
 28	"	"	PUNCT	FB	_	19	punct	_	SpaceAfter=No
 29	.	.	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
 
+# newpar
 # sent_id = ucuntudipurpu_18
 # text = A ḍḍu puntu, mi susivu videmma e dissi: -"Sugnu cu Lillu. Facèmula quarchi cosa di cchiù beḍḍu, na vota tantu! Amunì!"
 # translation = A quel punto, mi alzai anche io e dissi: -"Sono d’accordo con Lillu. Facciamo qualcosa di più interessante ogni tanto! Andiamo!"
@@ -11810,6 +11852,7 @@
 30	!	!	PUNCT	FS	_	29	punct	_	SpaceAfter=No
 31	"	"	PUNCT	FB	_	15	punct	_	SpacesAfter=\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_19
 # text = E tutti l'autri si suseru.
 # translation = E tutti gli altri si alzarono.
@@ -11821,6 +11864,7 @@
 6	suseru	susiri	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_20
 # text = Accuminciammu a caminari, ntra zàbbari e ficudinnia, passannu a latu di nu ciumiceḍḍu, ca sirbìa comu saja pî nuvari.
 # translation = Cominciammo a farci strada, tra agavi e fichi d’India, passando accanto a un piccolo corso d'acqua, che serviva come canale per il nuoto.
@@ -11850,6 +11894,7 @@
 23	nuvari	nuvari	NOUN	S	Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_21
 # text = Mentri ca caminàvamu, ca parìamu na cricca di zanni, accuminciammu a sèntiri un fetu di mòriri.
 # translation = Mentre camminavamo, che sembravamo una banda di sciocchi, cominciammo a sentire una puzza da morire. 
@@ -11873,6 +11918,7 @@
 18	mòriri	moriri	VERB	V	VerbForm=Inf	16	acl	_	SpaceAfter=No
 19	.	.	PUNCT	FS	_	12	punct	_	SpacesAfter=\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_22
 # text = -"Chi minchia è stu fetu? Cu’ fu ca si cacau di ‘n coḍḍu?" dissi Ntoniu, ca cu na manu s’attuppava li naschi pi nun sèntiri ḍḍa tanfa.
 # translation = -"Che cazzo è questa puzza? Chi si è cagato addosso?" disse Ntoniu, che con una mano si tappava il naso per non sentire quella puzza.
@@ -11912,6 +11958,7 @@
 34	tanfa	tanfa	NOUN	S	Gender=Fem|Number=Sing	32	obj	_	SpaceAfter=No
 35	.	.	PUNCT	FS	_	19	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_23
 # text = "Ntò, ti sbagghiasti... taliati tutti ḍḍà sutta..." arrispunnìu Pippineḍḍu, ca arristau ammammaluccatu.
 # translation = "Ntò, non è come pensi… guardate tutti là sotto…" rispose Pippineḍḍu, che rimase impietrito.
@@ -11935,6 +11982,7 @@
 18	ammammaluccatu	ammammaluccatu	ADJ	A	Gender=Masc|Number=Sing	17	xcomp	_	SpaceAfter=No
 19	.	.	PUNCT	FS	_	13	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_24
 # text = Propia comu tutti nuiautri arristammu ammammaluccati, doppu ca taliammu.
 # translation = Proprio come rimanemmo impietriti tutti noi dopo che guardammo. 
@@ -11950,6 +11998,7 @@
 10	taliammu	taliari	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	advcl	_	SpaceAfter=No
 11	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_25
 # text = A menzu a la hama, sutta a n'àrbulu di càccamu, cc'era un cristianu mortu, capaci ammazzatu.
 # translation = In mezzo al terreno, sotto un albero di caccamo, c’era un uomo morto, forse ucciso. 
@@ -11976,6 +12025,7 @@
 21	ammazzatu	ammazzari	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	acl	_	SpaceAfter=No
 22	.	.	PUNCT	FS	_	15	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_26
 # text = Nzumma: un catàvaru.
 # translation =  Insomma: un cadavere. 
@@ -11985,6 +12035,7 @@
 4	catàvaru	catàvaru	NOUN	S	Gender=Masc|Number=Sing	1	parataxis	_	SpaceAfter=No
 5	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_27
 # text = Era chinu di muschi ca cci vulàvanu di ncapu, e di càmuli ca cci stricàvanu supra.
 # translation = Era pieno di mosche che gli volavano di sopra, e di insetti che gli strisciavano sopra.
@@ -12007,6 +12058,7 @@
 17	supra	supra	ADV	B	_	16	advmod	_	SpaceAfter=No
 18	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_28
 # text = Avìa a facci janca, lorda e scafazzata, ca nun si arrinisciva a ricanuscìrici l'occhi.
 # translation = Aveva la faccia bianca, sporca e schiacciata, al punto che non si riuscivano a distinguere nemmeno gli occhi. 
@@ -12031,6 +12083,7 @@
 18	occhi	occhiu	NOUN	S	Gender=Masc|Number=Plur	15	obj	_	SpaceAfter=No
 19	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_29
 # text = Nun era certu allicchittatu, purtava sulu un paru di causi strazzati e lordi di sangu.
 # translation = Non era certo in tiro, portava solo un paio di pantaloni strappati e sporchi di sangue.
@@ -12052,6 +12105,7 @@
 16	sangu	sangu	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
 17	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_30
 # text = Pû restu, a peḍḍi parìa gracciata cu na bruccetta.
 # translation = Per il resto, la pelle sembrava come graffiata con una forchetta. 
@@ -12069,6 +12123,7 @@
 11	bruccetta	bruccetta	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
 12	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_31
 # text = -"Ma è nurmali ca feti accussì assà?" ni spiau ‘Ntoniu, schifijatu.
 # translation = -"Ma è normale che puzzi così tanto?" ci chiese ‘Ntoniu, disgustato.
@@ -12090,6 +12145,7 @@
 16	schifijatu	schifijatu	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	SpaceAfter=No
 17	.	.	PUNCT	FS	_	13	punct	_	SpacesAfter=\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_32
 # text = -"Chi pinzàvatu, ca un cristianu mortu ciaurava di ciura?", ci arrispunnivu iu.
 # translation = -"Che pensavi, che un uomo morto profumasse di fiori?", gli risposi.
@@ -12115,6 +12171,7 @@
 19	iu	iu	PRON	PE	Number=Sing|Person=1|PronType=Prs	18	nsubj	_	SpaceAfter=No
 20	.	.	PUNCT	FS	_	18	punct	_	SpacesAfter=\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_33
 # text = -"Sparàgnati i palori, chi nni putìa sapiri iu?" dissi iḍḍu.
 # translation = -"Non sprecare fiato, che potevo sapere mai io?" disse lui.
@@ -12137,6 +12194,7 @@
 16	iḍḍu	iddu	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	SpaceAfter=No
 17	.	.	PUNCT	FS	_	15	punct	_	SpacesAfter=\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_34
 # text = -"Bonu, picciò, zittìtivi e nun vi sciarrijati. Chi facemu ora? Ci l'âm'a diri a quarchidunu" dissi nfini Lillu, astutànnuni.
 # translation = -"Buoni, raga’, state zitti e non litigate. Che facciamo ora? Glielo dobbiamo dire a qualcuno" disse infine Lillu, interrompendoci. 
@@ -12175,6 +12233,7 @@
 31	ni	ni	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	30	expl	_	_
 32	.	.	PUNCT	FS	_	26	punct	_	SpacesAfter=\n
 
+# newpar
 # sent_id = ucuntudipurpu_35
 # text = Nuḍḍu di nuiautri sapìa soccu fari.
 # translation = Nessuno di noi sapeva cosa fare. 
@@ -12226,6 +12285,7 @@
 33	sicritu	sicritu	NOUN	S	Gender=Masc|Number=Sing	31	obj	_	SpaceAfter=No
 34	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_37
 # text = Lillu chiamau sulu a so ziu, spirannu ca armenu iḍḍu ni putìa diri quarchi cosa.
 # translation = Lillu chiamò solo suo zio, sperando che almeno lui potesse dirci cosa fare.
@@ -12247,6 +12307,7 @@
 16	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	SpaceAfter=No
 17	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_38
 # text = So ziu, Melu, sulu na cosa ni vosi diri: -"V'ât'a tagghiari a lingua. Nuḍḍu nn’avi a sapiri nenti", e doppu chistu chiujìu a chiamata.
 # translation = Suo zio, Melu, solo una cosa ci volle dire: -"Meglio che vi cuciate la bocca. Nessuno deve venirlo a sapere", poi attaccò il telefono. 
@@ -12287,6 +12348,7 @@
 35	chiamata	chiamata	NOUN	S	Gender=Fem|Number=Sing	33	obj	_	SpaceAfter=No
 36	.	.	PUNCT	FS	_	11	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_39
 # text = -"Chi veni a diri? Attruvammu ôn cristianu mortu e n’âm’a stari muti? Nun s'avìssiru a fari li nnàggini? A pulizzìa avi a asciari a cu’ fu a fari st'ammazzatina!" dissi Pippineḍḍu, cu tutti nuaiutri ca èramu d'accordu.
 # translation = -"Che significa? Abbiamo trovato un uomo morto e dobbiamo stare muti? Non si dovrebbero fare le indagini? La polizia deve scoprire chi è stato a commettere questo omicidio!" disse Pippineḍḍu, e tutti noi eravamo d’accordo con lui. 
@@ -12344,6 +12406,7 @@
 51	accordu	accordu	NOUN	S	Gender=Masc|Number=Sing	47	acl:relcl	_	SpaceAfter=No
 52	.	.	PUNCT	FS	_	42	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_40
 # text = A viritati sulu una era: èramu tutti troppu nichi, sulu na cricca di picciotti, nun sapìamu comu funziunijàvanu li cosi, comu funziunijava lu munnu.
 # translation = La verità era solo una: eravamo tutti troppo piccoli, solo un gruppo di ragazzi, non sapevamo come funzionassero le cose, come funzionasse il mondo.
@@ -12377,6 +12440,7 @@
 28	munnu	munnu	NOUN	S	Gender=Masc|Number=Sing	26	nsubj	_	SpaceAfter=No
 29	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_41
 # text = U zu Melu, nfatti, si scantava assà.
 # translation = Lo zio Melu, infatti, era molto preoccupato.
@@ -12391,6 +12455,7 @@
 9	assà	assai	ADV	B	_	8	advmod	_	SpaceAfter=No
 10	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_42
 # text = Si scantava ca ni putìa succèdiri quarchi cosa, ca cci putìa tràsiri a mafia nta st'ammazzatina, e ca capaci ca ci putìa finiri videmma a iḍḍu accuḍḍì.
 # translation = Aveva paura che ci potesse succedere qualcosa, che potesse esserci la mafia dietro questo omicidio, e che magari anche lui potesse fare la stessa fine.
@@ -12426,6 +12491,7 @@
 30	accuḍḍì	accuddì	ADV	B	_	26	advmod	_	SpaceAfter=No
 31	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_43
 # text = Nzumma, passaru assà minuti e ancora èramu fermi, comu statui di cira dintra a la càmmara unni cc'era u tilèfunu.
 # translation = Insomma, passarono molti minuti ed eravamo ancora fermi, come statue di cera, nella stanza dove si trovava il telefono.
@@ -12454,6 +12520,7 @@
 23	tilèfunu	tilèfunu	NOUN	S	Gender=Masc|Number=Sing	21	nsubj	_	SpaceAfter=No
 24	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_44
 # text = "Ascutàtimi tutti: futtemuninni di zoccu dissi me ziu. Vogghiu diri, nun è ca putemu fari finta di nenti!" fu chiḍḍu chi dissi Lillu, e, puru sta vota, nuaiutri tutti cu iḍḍu.
 # translation = "Ascoltatemi tutti: freghiamocene di quello che ci ha detto mio zio. Voglio dire, non è che possiamo far finta di niente!" fu quello che disse Lillu e, anche questa volta, tutti noi eravamo d’accordo con lui.
@@ -12504,6 +12571,7 @@
 43	iḍḍu	iddu	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	40	nmod	_	SpaceAfter=No
 44	.	.	PUNCT	FS	_	31	punct	_	SpacesAfter=\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_45
 # text = Pi comu vidìvamu li cosi nuiautri, a giustizzia s'avìa a fari: ni sintìamu comu na ciamma ca mancu lu ciusciu dû ventu putìa astutari.
 # translation = Per come la vedevamo noi, giustizia andava fatta: ci sentivamo come una fiamma che nemmeno il soffio del vento poteva spegnere.
@@ -12538,6 +12606,7 @@
 28	astutari	astutari	VERB	V	VerbForm=Inf	19	acl:relcl	_	SpaceAfter=No
 29	.	.	PUNCT	FS	_	11	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_46
 # text = Adunca, ammaccannu i nùmmari dâ tastera, chiamau â pulizzìa.
 # translation = Così, componendo il numero, chiamò la polizia.
@@ -12558,6 +12627,7 @@
 13	pulizzìa	pulizzìa	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	10	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_47
 # text = Passau u tempu, passaru li jorna, e tutti ô paisi parràvanu dû mortu ca quattru picciotti, "l'armali", avìanu truvatu campi campi.
 # translation = Il tempo passò, i giorni trascorsero, e tutti in paese parlavano del morto che quattro ragazzi, "l’armali", avevano trovato in mezzo alla campagna.
@@ -12595,6 +12665,7 @@
 30	campi	campu	NOUN	S	Gender=Masc|Number=Plur	29	compound	_	SpaceAfter=No
 31	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_48
 # text = Nun nni pozzu cuntari baḍḍi, èramu tutti tanticchia scantati ca ni putìa succèdiri quarchi cosa, Lillu abbuscau na para di jancati (so ziu u zagagnau picchì ci avìa dittu di zittìrisi ma iḍḍu fici di testa so), ma a parti chistu a nuḍḍu ci succidìu nenti.
 # translation = Non riesco a mentire, eravamo tutti abbastanza spaventati all’idea che potesse succederci qualcosa, Lillu si beccò due scappellotti (suo zio lo picchiò perché gli aveva detto di non parlare ma lui fece di testa sua), ma a parte questo, nessuno si fece male. 
@@ -12653,6 +12724,7 @@
 52	nenti	nenti	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	51	nsubj	_	SpaceAfter=No
 53	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_49
 # text = Ancora oji, puru ca passaru cchiù assà di trent'anni, penzu a sta storia.
 # translation = Ancora oggi, anche se sono passati più di trent’anni, non l’ho dimenticato.
@@ -12674,6 +12746,7 @@
 16	storia	storia	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
 17	.	.	PUNCT	FS	_	13	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_50
 # text = Ntra a tutta sta storia, chiḍḍu ca, a ḍḍi tempi, mi fici cchiù stranu fu ca nuḍḍu sappi diri cu’ fu u vastasu ca ammazzau a ḍḍu mischinu.
 # translation = In tutta questa storia quello che, a quei tempi, mi fece più strano fu che nessuno seppe dire chi fosse il bastardo che aveva ammazzato quel pover’uomo.
@@ -12710,6 +12783,7 @@
 31	mischinu	mischinu	NOUN	S	Gender=Masc|Number=Sing	28	obl	_	SpaceAfter=No
 32	.	.	PUNCT	FS	_	18	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_51
 # text = Accamora, ca criscivu, ca passaru l'anni, sacciu picchì, e macari troppu bonu: u guvernu u vosi ammucciari.
 # translation = Adesso che sono cresciuto, che gli anni sono passati, lo so, e fin troppo bene: il governo volle insabbiare tutto.
@@ -12738,6 +12812,7 @@
 23	ammucciari	ammucciàri	VERB	V	VerbForm=Inf	11	parataxis	_	SpaceAfter=No
 24	.	.	PUNCT	FS	_	11	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_52
 # text = Certu, nnâ terra dâ mafia putìa pàriri nurmali pinzari ca cci trasìa quarchi mafiusu nta sta storia, ma la viritati diversa assà era, e certu nun era accussì sìmplici.
 # translation = Certo, nella terra della mafia poteva sembrare normale pensare che c’era qualche mafioso dietro tutta questa storia, ma la verità era tutt’altra, e certo non così semplice.
@@ -12779,6 +12854,7 @@
 34	sìmplici	sìmplici	ADJ	A	Number=Sing	27	conj	_	SpaceAfter=No
 35	.	.	PUNCT	FS	_	10	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_53
 # text = Foru l'alieni a ammazzari a ḍḍu cristianu.
 # translation =  Sono stati gli alieni ad ammazzare quell’uomo.
@@ -12792,6 +12868,7 @@
 8	cristianu	cristianu	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
 9	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_54
 # text = Sugnu accussì sicuru picchì, li jorna doppu, cchiù assà di na vota, vitti lustru nnô celu, nzèmmula a chiḍḍu ca parìa na speci di apparecchiu, tunnu e chiattu, ca vulava a menzu a li stiḍḍi di notti.
 # translation = Ne sono così sicuro perché, i giorni dopo, più di una volta, vidi un bagliore nel cielo, assieme a quello che sembrava essere una specie di apparecchio, tondo e piatto, che volava tra le stelle di notte.
@@ -12842,6 +12919,7 @@
 44	notti	notti	NOUN	S	Gender=Fem	42	nmod	_	SpaceAfter=No
 45	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_55
 # text = Lu sacciu soccu fannu quannu pìgghianu a quarchi cristianu pi purtallu ncapu a l’astrunavi: ci sùcanu u sangu, ci fannu pirtusi ncapu tuttu u corpu, ci studìanu u ciriveḍḍu e pi fìniri ci pèrcianu i denti cû tràpanu.
 # translation = Lo so cosa fanno quando prelevano qualche umano per portarlo sopra l’astronave: gli succhiano il sangue, gli bucano tutto il corpo, ne studiano il cervello e per concludere gli bucano i denti con il trapano. 
@@ -12893,6 +12971,7 @@
 44	tràpanu	tràpanu	NOUN	S	Gender=Masc|Number=Sing	39	obl	_	SpaceAfter=No
 45	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_56
 # text = Doppu ca finìscinu, scàrricanu arrè ‘n terra chiḍḍu ca arresta dû cristianu ca si carrijaru.
 # translation = Dopo che terminano, scaricano a terra ciò che resta dell’umano che si erano portati via.
@@ -12916,6 +12995,7 @@
 17	carrijaru	carrijari	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	acl:relcl	_	SpaceAfter=No
 18	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_57
 # text = Sugnu sicuru: a chiḍḍu, trent'anni nn’arrè, ci succidìu accussì.
 # translation =  Sono sicuro, a quello, trent’anni fa, successe proprio questo.
@@ -12935,6 +13015,7 @@
 14	accussì	accussì	ADV	B	_	13	advmod	_	SpaceAfter=No
 15	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_58
 # text = Già u sacciu, vi viju a tutti vuiautri ca liggiti sta littra: pinzati ca nfuḍḍivu, vi capisciu.
 # translation = Già lo so, vi vedo, voi che leggete questa lettera: pensate che io sia impazzito, vi capisco
@@ -12960,6 +13041,7 @@
 20	capisciu	capiri	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	conj	_	SpaceAfter=No
 21	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_59
 # text = Ma iu nun sugnu foḍḍi, nun sugnu un cuntabbaḍḍi.
 # translation = Ma io non sono un pazzo, non sono un bugiardo.
@@ -12975,6 +13057,7 @@
 10	cuntabbaḍḍi	cuntabbaddi	NOUN	S	Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
 11	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_60
 # text = Quannu accuminciavu a capiri ca l'assassini foru l'alieni, ogni jornu scinniva a la chiazza dû pajisi pi diriccillu a tutti, ma nuḍḍu mi cridiva.
 # translation = Quando ho iniziato a capire che gli assassini erano stati gli alieni, ogni giorno andavo nella piazza del paese per dirlo a tutti, ma nessuno mi credeva. 
@@ -13013,6 +13096,7 @@
 31	cridiva	cridiri	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	conj	_	SpaceAfter=No
 32	.	.	PUNCT	FS	_	14	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_61
 # text = Na vota li cosi canciaru: era tardu assà, stava circannu di dòrmiri, ma sintìa vuci ntâ me testa.
 # translation = Una volta le cose cambiarono: era notte fonda, stavo cercando di dormire, ma sentivo delle voci nella mia testa.
@@ -13041,6 +13125,7 @@
 22	testa	testa	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
 23	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_62
 # text = Quarchidunu mi dicìa di nèsciri fora.
 # translation = Qualcuno mi diceva di uscire.
@@ -13052,6 +13137,7 @@
 6	fora	fora	ADV	B	_	5	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_63
 # text = Comu passava u tempu, ḍḍi vuci si facìanu sempri cchiù forti.
 # translation = Più passava il tempo, più quelle voci si facevano forti.
@@ -13069,6 +13155,7 @@
 12	forti	forte	ADJ	A	Number=Plur	9	xcomp	_	SpaceAfter=No
 13	.	.	PUNCT	FS	_	9	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_64
 # text = Allura, senza sapiri zoccu fari, niscivu fora, nnô jardinu.
 # translation = Allora, senza sapere cosa fare, uscii fuori, nel giardino. 
@@ -13088,6 +13175,7 @@
 13	jardinu	jardinu	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
 
+# newpar
 # sent_id = ucuntudipurpu_65
 # text = Mi purtavu un chiumazzu, na tuvagghia e cunzavu nu jazzu nterra pi dòrmiri.
 # translation = Mi portai un cuscino, un lenzuolo e preparai un giaciglio per terra, per dormire. 
@@ -13107,6 +13195,7 @@
 14	dòrmiri	dormiri	VERB	V	VerbForm=Inf	12	acl	_	SpaceAfter=No
 15	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_66
 # text = Ô principiu tuttu parìa nurmali, nenti di stranu, sulu un cuccu ca cantava e quarchi griḍḍu.
 # translation = All’inizio tutto sembrava normale, nulla di strano, solo un gallo che cantava e qualche grillo.
@@ -13132,6 +13221,7 @@
 19	griḍḍu	griddu	NOUN	S	Gender=Masc|Number=Sing	14	conj	_	SpaceAfter=No
 20	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_67
 # text = Passaru cincu minuti, o picca cchiù assà, e vitti un lustru accussì putenti ca scancillau tuttu lu scuru dâ notti, un lustru jancu e friddu.
 # translation = Passarono cinque minuti, o poco più, e vidi un bagliore così potente da cancellare tutto il buio della notte, una luce bianca e fredda.
@@ -13167,6 +13257,7 @@
 29	friddu	friddu	ADJ	A	Gender=Masc|Number=Sing	27	conj	_	SpaceAfter=No
 30	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_68
 # text = Doppu n'autra para di minuti m’addunavu di na cosa ca mi fici arrizzari li carni: dû lustru si potti vìdiri chiḍḍu ca parìa n'omu, vasciu e siccu, comu nn'aḍḍevu, câ testa a furma di lumìa e du’ occhi granni e nìguri, senza vavareḍḍi, nìguri comu li còzzuli.
 # translation = Dopo altri due minuti mi accorsi di qualcosa che mi fece venire la pelle d’oca: dalla luce si intravedeva quella che sembrava una figura umana, bassa e magra, come un bimbo, con la testa a forma di lampada e due occhi grandi e neri, senza palpebre, neri come le cozze.
@@ -13233,6 +13324,7 @@
 59	còzzuli	còzzula	NOUN	S	Gender=Fem|Number=Plur	56	obl	_	SpaceAfter=No
 60	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\s\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_69
 # text = Nun vitti naschi o mussu.
 # translation = Non vidi naso o bocca. 
@@ -13243,6 +13335,7 @@
 5	mussu	mussu	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
 6	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_70
 # text = Avìa la peḍḍi griggia, liscia comu a chiḍḍa dî giurani.
 # translation = La pelle era grigia, liscia come quella delle rane.
@@ -13261,6 +13354,7 @@
 12	giurani	giurana	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	SpaceAfter=No
 13	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_71
 # text = Vrazza e jammi èranu longhi, cu sulu quattru jìdita â ciampa.
 # translation = Braccia e gambe erano lunghe, con solo quattro dita per piede.
@@ -13280,6 +13374,7 @@
 13	ciampa	ciampa	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_72
 # text = Ogni jìditu finìa cu n’ugna longa e nìgura.
 # translation = Ogni dito terminava con un’unghia lunga e nera.
@@ -13294,6 +13389,7 @@
 9	nìgura	nìguru	ADJ	A	Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
 10	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_73
 # text = A ḍḍu mumentu iu era scantatu mortu, arristavu senza ciatu.
 # translation = In quel momento ero spaventato a morte, rimasi senza fiato.
@@ -13310,6 +13406,7 @@
 11	ciatu	ciatu	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
 12	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_74
 # text = Pruvavu a tiràrici na fotu, ma la màchina fotugràfica ca m’avìa purtatu nun funziunijava.
 # translation = Provai a scattargli una foto, ma la macchina fotografica che avevo portato non funzionava.
@@ -13333,6 +13430,7 @@
 17	funziunijava	funziunijari	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	conj	_	SpaceAfter=No
 18	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_75
 # text = Ma, armenu, ora putìa èssiri satisfattu: vitti n’alienu veru.
 # translation = Almeno, però, ora potevo essere soddisfatto: avevo visto un vero e proprio alieno.
@@ -13351,6 +13449,7 @@
 13	veru	veru	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_76
 # text = A matina doppu ci cuntavu sta storia a tutti l'amici me, ma comu sempri, nuḍḍu mi cridiva.
 # translation = La mattina dopo raccontai questa storia a tutti i miei amici, ma come sempre, nessuno mi credeva.
@@ -13376,6 +13475,7 @@
 20	cridiva	cridiri	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	conj	_	SpaceAfter=No
 21	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_77
 # text = Puru i me tri amici di na vita, l'autri "Armali", mi dìssiru ca avìa nfuḍḍutu.
 # translation = Anche gli amici di una vita, gli altri "Armali", mi dissero che ero impazzito.
@@ -13401,6 +13501,7 @@
 20	nfuḍḍutu	infuddiri	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	ccomp	_	SpaceAfter=No
 21	.	.	PUNCT	FS	_	17	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_78
 # text = "Nun cc’è nenti di fari, lu pèrsimu" si dicìanu ntra di iḍḍi.
 # translation = "Non c’è nulla da fare, lo abbiamo perso" dicevano tra loro.
@@ -13422,6 +13523,7 @@
 16	iḍḍi	iddu	PRON	PE	Number=Plur|Person=3|PronType=Prs	13	obl	_	SpaceAfter=No
 17	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_79
 # text = E ora, doppu ca puru i me amici cchiù stritti, i me cumpari cchiù fidati, mi schifìjanu, pozzu cunchiùdiri chiḍḍu ca fu di mia nna stu munnu.
 # translation = E adesso, dopo che perfino i miei amici più stretti, i miei compagni più fidati, mi disprezzano, posso concludere ciò che di me è stato in questo mondo.
@@ -13458,6 +13560,7 @@
 31	munnu	munnu	NOUN	S	Gender=Masc|Number=Sing	26	obl	_	SpaceAfter=No
 32	.	.	PUNCT	FS	_	23	punct	_	SpacesAfter=\s\r\n\r\n
 
+# newpar
 # sent_id = ucuntudipurpu_80
 # text = Si quarchidunu sta liggennu sta littra veni a diri na cosa sula: ca a st'ura già sugnu mortu, acchianavu ô paraddisu nzèmmula a ḍḍu cristianu ca trent'anni fa attruvammu a menzu a la hama.
 # translation = Se qualcuno sta leggendo questa lettera, significa una sola cosa: che a quest’ora sono già morto, e che sono salito in paradiso insieme a quell’uomo che trent’anni fa trovammo in mezzo al terreno.
